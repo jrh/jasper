@@ -1,5 +1,5 @@
 <template>
-  <section class="container">
+  <section>
     <div>
       <b-carousel
         controls
@@ -13,7 +13,7 @@
         <b-carousel-slide img-src="~/assets/images/lion.jpg"></b-carousel-slide>
       </b-carousel>
     </div>
-    <div class="row justify-content-center">
+    <div class="row justify-content-center mt-3">
       <em>"Jasper presents a unique style combining top-notch cuisine, service and surroundings</em> <small>&#9733;&#9733;&#9733;&frac12;</small><em>"</em><br>
       The Star-Ledger - October 3, 2004
 

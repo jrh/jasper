@@ -1,6 +1,5 @@
 <template>
-  <section class="container">
-    <h5>Lunch</h5>
+  <section>
   </section>
 </template>
 

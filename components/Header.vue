@@ -57,7 +57,6 @@ export default {
 }
 
 .nuxt-link-exact-active {
-  text-decoration: underline;
   font-weight: 500;
 }
 
