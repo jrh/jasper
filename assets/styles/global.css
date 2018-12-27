@@ -1,0 +1,27 @@
+body {
+  background-color: #fff;
+  color: #333;
+  font-family: "Gill Sans", "Gill Sans MT", "Helvetica", "Verdana", "Arial", sans-serif;
+  font-size: 11pt;
+  margin: 0;
+  padding: 0;
+  font-weight: 300;
+}
+
+a {
+  color: #333;
+  text-decoration: none;
+  outline: 0;
+}
+
+a:hover {
+  color: #f00;
+}
+
+hr {
+	position: relative;
+  background-color: #999;
+  color: #999;
+  border: 0 none;
+  height: 1px;
+}
