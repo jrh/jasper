@@ -15,3 +15,7 @@ hr {
   border: 0 none;
   height: 1px;
 }
+
+.zh {
+  font-family: "隶书", "STKaiti", "SimSun";
+}

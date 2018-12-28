@@ -566,7 +566,7 @@
         <td>(S)6.50 (L)11.50</td>
       </tr>
     </table>
-
+    <br>
     <span class="menucategory">Soup</span>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
     <span class="zh menucategory">湯類</span>
@@ -722,7 +722,7 @@
         <td>8.95</td>
       </tr>
     </table>
-
+    <br>
     <span class="menucategory">Fried Rice & Noodles</span>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
     <span class="zh menucategory">飯麵類</span>
@@ -1000,7 +1000,7 @@
         <td>15.95</td>
       </tr>
     </table>
-
+    <br>
     <span class="menucategory">Bean Curd & Vegetables</span>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
     <span class="zh menucategory">素菜</span>
@@ -1114,7 +1114,7 @@
         <td>109.95</td>
       </tr>
     </table>
-
+    <br>
     <span class="menucategory">Poultry</span>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
     <span class="zh menucategory">雞類</span>
@@ -1232,7 +1232,7 @@
         <td></td>
         <td>95.</td>
         <td></td>
-        <td>Moo Shu Chicken (4 Pancakes)General Tso's Chicken</td>
+        <td>Moo Shu Chicken (4 Pancakes)</td>
         <td>木須雞</td>
         <td>10.95</td>
       </tr>
@@ -1300,7 +1300,7 @@
         <td>13.95</td>
       </tr>
     </table>
-
+    <br>
     <span class="menucategory">Pork</span>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
     <span class="zh menucategory">豬肉</span>
@@ -1486,7 +1486,7 @@
         <td>9.95</td>
       </tr>
     </table>
-
+    <br>
     <span class="menucategory">Beef</span>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
     <span class="zh menucategory">牛肉</span>
@@ -1600,7 +1600,7 @@
         <td>11.95</td>
       </tr>
     </table>
-
+    <br>
     <span class="menucategory">Seafood</span>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
     <span class="zh menucategory">海鲜</span>
@@ -1813,7 +1813,7 @@
         <td>23.95</td>
       </tr>
     </table>
-
+    <br>
     <span class="menucategory">Diet Steamer</span>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
     <span class="zh menucategory">減肥茶</span>
@@ -1873,16 +1873,12 @@
       </tr>
     </table>
 
+    <br>
     <p><img src="~/assets/images/spicy.gif" width="13" height="18"> HOT & SPICY</p>
     <p>If you would like something and do not see it on our menu, please ask us.</p>
 
   </section>
 </template>
-
-<script>
-export default {
-}
-</script>
 
 <style scoped>
 #menusection {
