@@ -1,6 +1,5 @@
 <template>
-  <section id="menusection">
-
+  <section id="menusection" class="pt-5">
     <span class="menucategory">Chef's Signature Dishes</span>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
     <span class="zh menucategory">廚師推薦</span>
@@ -1882,7 +1881,6 @@
 
 <script>
 export default {
-  name: 'menu'
 }
 </script>
 

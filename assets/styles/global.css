@@ -8,16 +8,6 @@ body {
   font-weight: 300;
 }
 
-a {
-  color: #333;
-  text-decoration: none;
-  outline: 0;
-}
-
-a:hover {
-  color: #f00;
-}
-
 hr {
 	position: relative;
   background-color: #999;

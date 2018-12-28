@@ -1,7 +1,7 @@
 <template>
   <div id="footer">
     <hr>
-    <div class="row justify-content-center">
+    <div class="row justify-content-center pl-3 pr-3">
       Jasper Chinese Restaurant & Bar &bull;
       810 US Highway 46 &bull;
       Parsippany, NJ 07054 &bull;

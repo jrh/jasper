@@ -6,17 +6,24 @@
           controls
           indicators
           img-width="640"
-          img-height="480"
         >
-          <b-carousel-slide img-src="~/assets/images/partyroom.jpg"></b-carousel-slide>
-          <b-carousel-slide img-src="~/assets/images/lobster.jpg"></b-carousel-slide>
-          <b-carousel-slide img-src="~/assets/images/sign.jpg"></b-carousel-slide>
-          <b-carousel-slide img-src="~/assets/images/lion.jpg"></b-carousel-slide>
+          <b-carousel-slide
+            img-src="~/assets/images/partyroom.jpg"
+          ></b-carousel-slide>
+          <b-carousel-slide
+            img-src="~/assets/images/lobster.jpg"
+          ></b-carousel-slide>
+          <b-carousel-slide
+            img-src="~/assets/images/sign.jpg"
+          ></b-carousel-slide>
+          <b-carousel-slide
+            img-src="~/assets/images/lion.jpg"
+            ></b-carousel-slide>
         </b-carousel>
       </div>
     </div>
-    <div class="row justify-content-center align-items-center mt-5">
-      <em>"Jasper presents a unique style combining top-notch cuisine, service and surroundings</em> <small class="pl-3">&#9733;&#9733;&#9733;&frac12;</small><em>"</em>
+    <div class="row justify-content-center align-items-center mt-3 pl-2 pr-2">
+      <em>"Jasper presents a unique style combining top-notch cuisine, service and surroundings</em> <small class="pl-2">&#9733;&#9733;&#9733;&frac12;</small><em>"</em>
     </div>
     <div class="row justify-content-center mt-3">
       <span>The Star-Ledger - October 3, 2004</span>
@@ -33,7 +40,7 @@ export default {
 <style scoped>
 #carousel-container {
   width: 640px;
-  height: 480px;
+  height: auto;
 }
 </style>
 

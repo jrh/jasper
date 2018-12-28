@@ -14,7 +14,7 @@
           chinese="蔬菜湯麵"
           price="5.95"
         />
-        
+
         <LunchItem
           number="2"
           :spicy="true"
@@ -22,7 +22,7 @@
           chinese="榨菜肉絲湯麵"
           price="5.95"
         />
-        
+
         <LunchItem
           number="3"
           :spicy="false"
@@ -38,7 +38,7 @@
           chinese="牛腩湯麵"
           price="6.95"
         />
-        
+
         <LunchItem
           number="5"
           :spicy="false"
@@ -46,7 +46,7 @@
           chinese="牛肉湯麵"
           price="6.95"
         />
-        
+
         <LunchItem
           number="6"
           :spicy="false"
@@ -54,7 +54,7 @@
           chinese="牛腩雲吞湯"
           price="7.95"
         />
-        
+
         <LunchItem
           number="7"
           :spicy="false"
@@ -62,7 +62,7 @@
           chinese="蝦球湯麵"
           price="8.95"
         />
-        
+
         <LunchItem
           number="8"
           :spicy="false"
@@ -70,7 +70,7 @@
           chinese="海鲜湯"
           price="8.95"
         />
-        
+
         <LunchItem
           number="9"
           :spicy="false"
@@ -78,7 +78,7 @@
           chinese="蔬菜米粉"
           price="5.95"
         />
-        
+
         <LunchItem
           number="10"
           :spicy="false"
@@ -86,7 +86,7 @@
           chinese="廈門米粉"
           price="6.95"
         />
-        
+
         <LunchItem
           number="11"
           :spicy="false"
@@ -94,7 +94,7 @@
           chinese="大鵬米粉"
           price="6.95"
         />
-        
+
         <LunchItem
           number="12"
           :spicy="true"
@@ -102,7 +102,7 @@
           chinese="星洲米粉"
           price="6.95"
         />
-        
+
         <LunchItem
           number="13"
           :spicy="true"
@@ -110,7 +110,7 @@
           chinese="干炒牛河粉"
           price="6.95"
         />
-        
+
         <LunchItem
           number="14"
           :spicy="false"
@@ -118,7 +118,7 @@
           chinese="雞炒河粉"
           price="6.95"
         />
-        
+
         <LunchItem
           number="15"
           :spicy="true"
@@ -126,7 +126,7 @@
           chinese="蝦炒河粉"
           price="6.95"
         />
-        
+
         <LunchItem
           number="16"
           :spicy="false"
@@ -134,7 +134,7 @@
           chinese="肉炒河粉"
           price="6.95"
         />
-        
+
         <LunchItem
           number="17"
           :spicy="false"
@@ -142,7 +142,7 @@
           chinese="雞撈麵"
           price="6.95"
         />
-        
+
         <LunchItem
           number="18"
           :spicy="false"
@@ -150,7 +150,7 @@
           chinese="蝦撈麵"
           price="6.95"
         />
-        
+
         <LunchItem
           number="19"
           :spicy="false"
@@ -166,7 +166,7 @@
           chinese="肉撈麵"
           price="6.95"
         />
-        
+
         <LunchItem
           number="21"
           :spicy="false"
@@ -174,7 +174,7 @@
           chinese="本樓撈麵"
           price="6.95"
         />
-        
+
         <LunchItem
           number="22"
           :spicy="false"
@@ -182,7 +182,7 @@
           chinese="雞或肉炒飯"
           price="5.95"
         />
-        
+
         <LunchItem
           number="23"
           :spicy="false"
@@ -190,7 +190,7 @@
           chinese="蝦或牛肉炒飯"
           price="6.95"
         />
-        
+
         <LunchItem
           number="24"
           :spicy="false"
@@ -198,7 +198,7 @@
           chinese="本樓炒飯"
           price="6.95"
         />
-        
+
         <LunchItem
           number="25"
           :spicy="false"
@@ -206,7 +206,7 @@
           chinese="揚州炒飯"
           price="6.95"
         />
-        
+
         <LunchItem
           number="26"
           :spicy="false"
@@ -214,7 +214,7 @@
           chinese="芥蘭雞"
           price="7.95"
         />
-        
+
         <LunchItem
           number="27"
           :spicy="false"
@@ -222,7 +222,7 @@
           chinese="素菜雞"
           price="7.95"
         />
-        
+
         <LunchItem
           number="28"
           :spicy="true"
@@ -230,7 +230,7 @@
           chinese="魚香雞"
           price="7.95"
         />
-        
+
         <LunchItem
           number="29"
           :spicy="false"
@@ -238,7 +238,7 @@
           chinese="腰果雞"
           price="7.95"
         />
-        
+
         <LunchItem
           number="30"
           :spicy="false"
@@ -246,7 +246,7 @@
           chinese="榨菜肉絲湯麵"
           price="7.95"
         />
-        
+
         <LunchItem
           number="31"
           :spicy="true"
@@ -254,7 +254,7 @@
           chinese="咖哩雞"
           price="7.95"
         />
-        
+
         <LunchItem
           number="32"
           :spicy="false"
@@ -262,7 +262,7 @@
           chinese="四季豆雞"
           price="7.95"
         />
-        
+
         <LunchItem
           number="33"
           :spicy="false"
@@ -270,7 +270,7 @@
           chinese="芝麻雞"
           price="7.95"
         />
-        
+
         <LunchItem
           number="34"
           :spicy="false"
@@ -278,7 +278,7 @@
           chinese="唐芥蘭雞"
           price="7.95"
         />
-        
+
         <LunchItem
           number="35"
           :spicy="true"
@@ -286,7 +286,7 @@
           chinese="茄子雞"
           price="7.95"
         />
-        
+
         <LunchItem
           number="36"
           :spicy="true"
@@ -294,7 +294,7 @@
           chinese="宮保雞"
           price="7.95"
         />
-        
+
         <LunchItem
           number="37"
           :spicy="true"
@@ -302,7 +302,7 @@
           chinese="左宗雞"
           price="7.95"
         />
-        
+
         <LunchItem
           number="38"
           :spicy="false"
@@ -310,7 +310,7 @@
           chinese="升瓜肉"
           price="7.95"
         />
-        
+
         <LunchItem
           number="39"
           :spicy="false"
@@ -318,7 +318,7 @@
           chinese="鮮菇叉燒"
           price="7.95"
         />
-        
+
         <LunchItem
           number="40"
           :spicy="false"
@@ -326,7 +326,7 @@
           chinese="京都排骨"
           price="7.95"
         />
-        
+
         <LunchItem
           number="41"
           :spicy="false"
@@ -334,7 +334,7 @@
           chinese="香乾肉絲"
           price="7.95"
         />
-        
+
         <LunchItem
           number="42"
           :spicy="true"
@@ -342,7 +342,7 @@
           chinese="回鍋肉"
           price="7.95"
         />
-        
+
         <LunchItem
           number="43"
           :spicy="true"
@@ -350,7 +350,7 @@
           chinese="魚香肉絲"
           price="7.95"
         />
-        
+
         <LunchItem
           number="44"
           :spicy="false"
@@ -358,7 +358,7 @@
           chinese="椒鹽排"
           price="7.95"
         />
-        
+
         <LunchItem
           number="45"
           :spicy="false"
@@ -366,7 +366,7 @@
           chinese="芥蘭肉"
           price="7.95"
         />
-        
+
         <LunchItem
           number="46"
           :spicy="false"
@@ -374,7 +374,7 @@
           chinese="素菜肉"
           price="7.95"
         />
-        
+
         <LunchItem
           number="47"
           :spicy="false"
@@ -382,7 +382,7 @@
           chinese="芥蘭牛"
           price="7.95"
         />
-        
+
         <LunchItem
           number="48"
           :spicy="false"
@@ -390,7 +390,7 @@
           chinese="素菜牛"
           price="7.95"
         />
-        
+
         <LunchItem
           number="49"
           :spicy="false"
@@ -398,7 +398,7 @@
           chinese="蠔油牛"
           price="7.95"
         />
-          
+
         <LunchItem
           number="50"
           :spicy="false"
@@ -406,7 +406,7 @@
           chinese="酸菜牛"
           price="7.95"
         />
-        
+
         <LunchItem
           number="51"
           :spicy="false"
@@ -414,7 +414,7 @@
           chinese="青椒牛"
           price="7.95"
         />
-        
+
         <LunchItem
           number="52"
           :spicy="true"
@@ -422,7 +422,7 @@
           chinese="干燒牛"
           price="7.95"
         />
-        
+
         <LunchItem
           number="53"
           :spicy="true"
@@ -430,7 +430,7 @@
           chinese="小辣椒牛"
           price="6.95"
         />
-        
+
         <LunchItem
           number="54"
           :spicy="false"
@@ -438,7 +438,7 @@
           chinese="宮保蝦仁"
           price="7.95"
         />
-        
+
         <LunchItem
           number="55"
           :spicy="false"
@@ -446,7 +446,7 @@
           chinese="豆腐蝦仁"
           price="7.95"
         />
-        
+
         <LunchItem
           number="56"
           :spicy="false"
@@ -454,7 +454,7 @@
           chinese="蝦仁炒飯"
           price="7.95"
         />
-        
+
         <LunchItem
           number="57"
           :spicy="false"
@@ -462,7 +462,7 @@
           chinese="酸菜鮮魷"
           price="7.95"
         />
-        
+
         <LunchItem
           number="58"
           :spicy="false"
@@ -470,7 +470,7 @@
           chinese="清炒蝦仁"
           price="7.95"
         />
-        
+
         <LunchItem
           number="59"
           :spicy="false"
@@ -478,7 +478,7 @@
           chinese="什菜蝦球"
           price="8.95"
         />
-        
+
         <LunchItem
           number="60"
           :spicy="false"
@@ -486,7 +486,7 @@
           chinese="芥蘭蝦球"
           price="8.95"
         />
-        // Mistake in chinese! 
+
         <LunchItem
           number="61"
           :spicy="false"
@@ -494,7 +494,7 @@
           chinese="干燒牛"
           price="8.95"
         />
-        
+
         <LunchItem
           number="62"
           :spicy="false"
@@ -502,7 +502,7 @@
           chinese="蝦龍糊"
           price="8.95"
         />
-        
+
         <LunchItem
           number="63"
           :spicy="false"
@@ -510,7 +510,7 @@
           chinese="白菇班片"
           price="7.95"
         />
-        
+
         <LunchItem
           number="64"
           :spicy="false"

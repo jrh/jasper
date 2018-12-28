@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="row justify-content-center mt-5">
-      <img src="~/assets/images/jasper_title_sm.png">
+      <img src="~/assets/images/jasper_title_sm.png" class="img-fluid">
     </div>
     <div class="row justify-content-center">
       <span id="header-title">CHINESE RESTAURANT & BAR</span>
@@ -43,7 +43,7 @@ export default {
 	font-size: 12pt;
 }
 
-#nav-container ul {
+ul {
 	list-style: none;
 	margin: 0;
 	padding: 0;
@@ -51,17 +51,28 @@ export default {
 	font-weight: 100;
 }
 
-#nav-container ul li {
+li {
   display: inline-block;
-	padding: 0 3em;
+	padding: 0;
+  margin: 0 2em;
+}
+
+a {
+  color: #333;
+  text-decoration: none;
+  outline: 0;
+  padding: 1em 1em;
+  width: 100%;
+  height: 100%;
+}
+
+a:hover {
+  color: #f00;
+  text-decoration: none;
 }
 
 .nuxt-link-exact-active {
   font-weight: 500;
-}
-
-hr {
-  margin: 10px;
 }
 </style>
 
