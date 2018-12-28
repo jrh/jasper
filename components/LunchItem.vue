@@ -1,7 +1,7 @@
 <template>
   <tr>
     <td width="40">{{ number + '.' }}</td>
-    <td width="18"><span v-if="spicy == true">Spicy</span></td>
+    <td width="18"><img v-if="spicy == true" src="~assets/images/spicy.gif"></td>
     <td width="400">{{ english }} &nbsp; &nbsp; &nbsp; {{ chinese }}</td>
     <td width="70" align="right">{{ price }}</td>
   </tr>
@@ -23,6 +23,10 @@ export default {
 <style scoped>
 tr {
   line-height: 30px;
+}
+img {
+  height: 18px;
+  padding-bottom: 4px;
 }
 </style>
 
