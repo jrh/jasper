@@ -23,7 +23,7 @@
 
       <tr>
         <td colspan="2"></td>
-        <td>Fresh whole lobster roasted lightly w. ginger and scallion, lobster lovers- "Don't Miss This One".</td>
+        <td>Fresh whole lobster roasted lightly w. ginger and scallion, lobster lovers - "Don't Miss This One".</td>
         <td></td>
       </tr>
 
@@ -54,7 +54,7 @@
         <td>Beijing Duck
         &nbsp; &nbsp; &nbsp;
         北京鴨</td>
-        <td align="right">29.95</td>
+        <td align="right">32.00</td>
       </tr>
 
       <tr>
@@ -134,7 +134,7 @@
       </tr>
       <tr>
         <td colspan="2"></td>
-        <td>Fillet steak in lack pepper corn sauce served in a sizzling platter.</td>
+        <td>Filet steak in black peppercorn sauce served in a sizzling platter.</td>
         <td></td>
       </tr>
       <tr>
@@ -153,7 +153,7 @@
       </tr>
       <tr>
         <td colspan="2"></td>
-        <td>Crispy whole sea bass w/ sweet & spicy sauce and pine nut</td>
+        <td>Crispy whole sea bass w/ sweet & spicy sauce and pine nut.</td>
         <td></td>
         </tr>
       <tr>
@@ -191,7 +191,7 @@
       </tr>
       <tr>
         <td colspan="2"></td>
-        <td>Steak cake & prawn stir fried w/ vegetable</td>
+        <td>Steak cake & prawn stir fried w/ vegetable.</td>
         <td></td>
       </tr>
         <tr>
@@ -211,7 +211,7 @@
 
       <tr>
         <td colspan="2"></td>
-        <td>Prawn, scallop, chicken light breaded in spicy sauce</td>
+        <td>Prawn, scallop, chicken light breaded in spicy sauce.</td>
         <td></td>
       </tr>
       <tr>
@@ -223,14 +223,14 @@
       <tr>
         <td>S 12.</td>
         <td><img src="~/assets/images/spicy.gif" width="13" height="18"></td>
-        <td>Dragan & Phoenix
+        <td>Dragon & Phoenix
         &nbsp; &nbsp; &nbsp;
         龍鳳配</td>
         <td align="right">18.95</td>
       </tr>
       <tr>
         <td colspan="2"></td>
-        <td>Prawn's & chunks & chicken light breaded in spicy sauce</td>
+        <td>Prawn's & chunks & chicken light breaded in spicy sauce.</td>
         <td></td>
       </tr>
       <tr>
@@ -249,7 +249,7 @@
       </tr>
       <tr>
         <td colspan="2"></td>
-        <td>Prawn in light breaded w/ chef's special chili sauce</td>
+        <td>Prawn in light breaded w/ chef's special chili sauce.</td>
         <td></td>
       </tr>
       <tr>
@@ -299,14 +299,14 @@
       <tr>
         <td>S 16.</td>
         <td><img src="~/assets/images/spicy.gif" width="13" height="18"></td>
-        <td>Filled of fish w/ pine nut
+        <td>Fillet of fish w/ pine nut
         &nbsp; &nbsp; &nbsp;
         脆皮魚片</td>
         <td align="right">15.95</td>
       </tr>
       <tr>
         <td colspan="2"></td>
-        <td>Fried crispy filler of flounder in spicy - sweet sauce</td>
+        <td>Fried crispy fillet of flounder in sweet and spicy sauce.</td>
         <td></td>
       </tr>
       <tr>
@@ -325,8 +325,8 @@
       </tr>
       <tr>
         <td colspan="2"></td>
-        <td>(A) Soft shell crab backed w/ salt and pepper</br>
-        (B) Soft shell crab w/ black bean sauce</td>
+        <td>(A) Soft shell crab backed w/ salt and pepper.</br>
+        (B) Soft shell crab w/ black bean sauce.</td>
         <td></td>
       </tr>
       <tr>
@@ -345,7 +345,7 @@
       </tr>
       <tr>
         <td colspan="2"></td>
-        <td>Big piece of salmon filed w/ black bean sauce served in sizzling plate</td>
+        <td>Big piece of salmon fillet w/ black bean sauce served in sizzling plate.</td>
         <td></td>
       </tr>
       <tr>
@@ -364,7 +364,7 @@
       </tr>
       <tr>
         <td colspan="2"></td>
-        <td>Chicken & jumbo shrimp crispy fried in chef's special sauce</td>
+        <td>Chicken & jumbo shrimp crispy fried in chef's special sauce.</td>
         <td></td>
       </tr>
       <tr>
@@ -561,7 +561,7 @@
       <tr>
         <td></td>
         <td>20.</td>
-        <td>Boneless Spare ribs</td>
+        <td>Boneless Spare Ribs</td>
         <td>無骨排</td>
         <td>(S)6.50 (L)11.50</td>
       </tr>
@@ -716,7 +716,7 @@
         <td></td>
         <td>33.</td>
         <td></td>
-        <td>Subgum Water melon</td>
+        <td>Subgum Watermelon</td>
         <td>八寶冬瓜湯</td>
         <td></td>
         <td>8.95</td>
@@ -859,7 +859,7 @@
       <tr>
         <td></td>
         <td>47.</td>
-        <td>Chow Fun Any Style (Vegetable,Chicken,Portk,Beef,Shrimp)</td>
+        <td>Chow Fun Any Style (Vegetable, Chicken, Pork, Beef, Shrimp)</td>
         <td>各式河粉</td>
         <td></td>
         <td>8.50</td>
@@ -931,7 +931,7 @@
       <tr>
         <td></td>
         <td>61.</td>
-        <td>Pan Fried Noodles Any Style (Chicken,Pork,Beef)</td>
+        <td>Pan Fried Noodles Any Style (Chicken, Pork, Beef)</td>
         <td>各式兩面黃</td>
         <td></td>
         <td>9.50</td>
@@ -1763,7 +1763,7 @@
         <td></td>
         <td>152.</td>
         <td><img src="~/assets/images/spicy.gif" width="13" height="18"></td>
-        <td>Squid in Light BakedSalt & Pepper Corn</td>
+        <td>Squid in Light Baked Salt & Peppercorn</td>
         <td>椒鹽鮮魷</td>
         <td>30.95</td>
       </tr>
@@ -1818,8 +1818,7 @@
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
     <span class="zh menucategory">減肥茶</span>
 
-    <p>All dishes especially prepared for the health conscious,<br>
-    served with dipping sauce on the side<br>
+    <p>All dishes especially prepared for the health conscious, served with dipping sauce on the side<br>
     (Choice of Brown Sauce or Garlic Sauce)<br>
     Natural Brown Rice Available</p>
 
