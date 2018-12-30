@@ -1214,7 +1214,7 @@
         <td></td>
         <td>93.</td>
         <td></td>
-        <td>Orange Flavored Chicken</td>
+        <td>Sesame Chicken</td>
         <td>芝麻雞</td>
         <td>13.95</td>
       </tr>
@@ -1223,7 +1223,7 @@
         <td></td>
         <td>94.</td>
         <td><img src="~/assets/images/spicy.gif" width="13" height="18"></td>
-        <td>Sesame Chicken</td>
+        <td>General Tso's Chicken</td>
         <td>左宗雞</td>
         <td>13.95</td>
       </tr>
