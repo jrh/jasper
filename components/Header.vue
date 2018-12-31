@@ -6,7 +6,7 @@
     <div class="row justify-content-center">
       <span id="header-title">CHINESE RESTAURANT & BAR</span>
     </div>
-    <hr> 
+    <hr>
     <div id="nav-container">
       <ul>
         <li><nuxt-link to="/">Home</nuxt-link></li>
@@ -56,6 +56,18 @@ li {
 	padding: 0;
   margin: 0 2em;
 }
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+  li { margin: 0 .5em; }
+}
+
+@media (max-width: 767.98px) {
+  li {
+    display: block;
+    margin: 0 auto;
+  }
+}
+
 
 a {
   color: #333;

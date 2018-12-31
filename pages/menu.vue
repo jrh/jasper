@@ -1861,8 +1861,8 @@
 </template>
 
 <style scoped>
-#menusection {
-  margin-left: 50px;
+@media (min-width: 768px) {
+  #menusection { margin-left: 50px; }
 }
 
 .menucategory {

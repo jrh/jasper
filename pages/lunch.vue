@@ -540,8 +540,8 @@ export default {
 </script>
 
 <style scoped>
-#menusection {
-	margin-left: 100px;
+@media (min-width: 768px) {
+  #menusection { margin-left: 100px; }
 }
 
 .menucategory {
