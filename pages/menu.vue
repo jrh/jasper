@@ -6,7 +6,7 @@
 
     <table class="menutable" border="0">
       <tr>
-        <td width="40"></td>
+        <td width="50"></td>
         <td width="18"></td>
         <td width="550"></td>
         <td width="70"></td>
@@ -185,7 +185,7 @@
       <tr>
         <td>S 11.</td>
         <td></td>
-        <td>Stir fried seafood w/ chicken
+        <td>Stir Fried Seafood w/ Chicken
         &nbsp; &nbsp; &nbsp;
         三鮮球</td>
         <td align="right">18.95</td>
@@ -1303,7 +1303,7 @@
         <td></td>
         <td>Pork w. Dried Bean Curd</td>
         <td>香乾肉絲</td>
-        <td>9</td>
+        <td>9.00</td>
       </tr>
 
       <tr>
@@ -1823,7 +1823,7 @@
       <tr>
         <td></td>
         <td>160.</td>
-        <td>Steamed Beef with Assorted Vegetables</td>
+        <td>Steamed Beef w/ Assorted Vegetables</td>
         <td>蒸七彩牛</td>
         <td>12.95</td>
       </tr>
@@ -1831,7 +1831,7 @@
       <tr>
         <td></td>
         <td>161.</td>
-        <td>Steamed Shrimp with Assorted Vegetables</td>
+        <td>Steamed Shrimp w/ Assorted Vegetables</td>
         <td>蒸七彩蝦</td>
         <td>16.95</td>
       </tr>
@@ -1839,7 +1839,7 @@
       <tr>
         <td></td>
         <td>162.</td>
-        <td>Steamed Scallop with Assorted Vegetables</td>
+        <td>Steamed Scallop w/ Assorted Vegetables</td>
         <td>蒸七彩干貝</td>
         <td>16.95</td>
       </tr>
@@ -1847,7 +1847,7 @@
       <tr>
         <td></td>
         <td>163.</td>
-        <td>Steamed Chicken, Shrimp & Scallop with Assorted Vegetables</td>
+        <td>Steamed Chicken, Shrimp & Scallop w/ Assorted Vegetables</td>
         <td>蒸七彩三味</td>
         <td>18.95</td>
       </tr>
@@ -1874,7 +1874,7 @@
   margin-top: 0.5em;
 }
 
-.desc {
-  font-weight: 300;
-}
+td { vertical-align: top; }
+
+.desc { font-weight: 300; }
 </style>
