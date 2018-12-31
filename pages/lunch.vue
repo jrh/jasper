@@ -1,9 +1,8 @@
 <template>
   <section id="menusection" class="pt-5">
     <div class="row justify-content-center"
-      <span class="menucategory">Served From Monday - Friday : 11:00 am - 3:00 pm Except Holidays
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br /><br />
-      Noodle Soup with</span>
+      <p>Served From Monday - Friday : 11:00 am - 3:00 pm Except Holidays</p>
+      <p class="menucategory">Noodle Soup with:</p>
 
       <table class="menutable" border="0">
         <tbody>
@@ -72,7 +71,7 @@
           />
         </tbody>
       </table>
-      <span class="menucategory">Lo Mein, Chow Fun Noodle & Fried Rice</span>
+      <p class="menucategory">Lo Mein, Chow Fun Noodle & Fried Rice:</p>
       <table>
         <tbody>
           <LunchItem
@@ -495,7 +494,7 @@
             number="61"
             :spicy="false"
             english="Shrimp w/ Garlic Sauce"
-            chinese="干燒牛"
+            chinese="魚香蝦球"
             price="8.95"
           />
 
