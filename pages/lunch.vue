@@ -3,11 +3,10 @@
     <div class="row justify-content-center"
       <span class="menucategory">Served From Monday - Friday : 11:00 am - 3:00 pm Except Holidays
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br /><br />
-      Noodle Soup with Lo Mein, Chow Fun Noodle & Fried Rice</span>
+      Noodle Soup with</span>
 
       <table class="menutable" border="0">
         <tbody>
-
           <LunchItem
             number="1"
             :spicy="false"
@@ -71,7 +70,11 @@
             chinese="海鲜湯"
             price="8.95"
           />
-
+        </tbody>
+      </table>
+      <span class="menucategory">Lo Mein, Chow Fun Noodle & Fried Rice</span>
+      <table>
+        <tbody>
           <LunchItem
             number="9"
             :spicy="false"
@@ -106,7 +109,7 @@
 
           <LunchItem
             number="13"
-            :spicy="true"
+            :spicy="false"
             english="Beef Chow Fun (Dry)"
             chinese="干炒牛河粉"
             price="6.95"
@@ -122,7 +125,7 @@
 
           <LunchItem
             number="15"
-            :spicy="true"
+            :spicy="false"
             english="Shrimp Chow Fun"
             chinese="蝦炒河粉"
             price="6.95"
@@ -243,8 +246,8 @@
           <LunchItem
             number="30"
             :spicy="false"
-            english="Shredded Pork & Mustard Vegetable"
-            chinese="榨菜肉絲湯麵"
+            english="Sweet & Sour Chicken"
+            chinese="甜酸雞"
             price="7.95"
           />
 
@@ -354,7 +357,7 @@
 
           <LunchItem
             number="44"
-            :spicy="false"
+            :spicy="true"
             english="Pork Chop w/ Peppercorn"
             chinese="椒鹽排"
             price="7.95"
@@ -429,7 +432,7 @@
             :spicy="true"
             english="Shredded Beef w/ Jalapeno Pepper"
             chinese="小辣椒牛"
-            price="6.95"
+            price="7.95"
           />
 
           <LunchItem
@@ -509,7 +512,7 @@
             :spicy="false"
             english="Fish Fillet w/ Fresh Mushroom"
             chinese="白菇班片"
-            price="7.95"
+            price="8.95"
           />
 
           <LunchItem
@@ -517,16 +520,13 @@
             :spicy="false"
             english="Fish Fillet w/ Chinese Greens"
             chinese="菜遠班球"
-            price="7.95"
+            price="8.95"
           />
         </tbody>
       </table>
 
-      <p><img src="~/assets/images/spicy.gif" width="13" height="18"> HOT & SPICY</p>
-
+      <p class="mt-3"><img src="~/assets/images/spicy.gif" width="13" height="18"> HOT & SPICY</p>
       <p>If you would like something and do not see it on our menu, please ask us.</p>
-
-      </div>
     </div>
   </section>
 </template>
