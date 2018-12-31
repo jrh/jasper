@@ -23,7 +23,7 @@
 
       <tr>
         <td colspan="2"></td>
-        <td>Fresh whole lobster roasted lightly w. ginger and scallion, lobster lovers - "Don't Miss This One".</td>
+        <td class="desc">Fresh whole lobster roasted lightly w. ginger and scallion, lobster lovers - "Don't Miss This One".</td>
         <td></td>
       </tr>
 
@@ -44,7 +44,7 @@
 
       <tr>
         <td colspan="2"></td>
-        <td>Choice fillet mignon sauteed with fresh mushrooms, snow peas, baby corn and carrots in our chef's signature steak sauce.</td>
+        <td class="desc">Choice fillet mignon sauteed with fresh mushrooms, snow peas, baby corn and carrots in our chef's signature steak sauce.</td>
         <td></td>
       </tr>
 
@@ -59,7 +59,7 @@
 
       <tr>
         <td colspan="2"></td>
-        <td>A delicate Beijing dish skillfully prepared, served with white scallions, hoisin sauce & wrapped in pancakes.</td>
+        <td class="desc">A delicate Beijing dish skillfully prepared, served with white scallions, hoisin sauce & wrapped in pancakes.</td>
         <td></td>
       </tr>
 
@@ -73,7 +73,7 @@
       </tr>
       <tr>
         <td colspan="2"></td>
-        <td>A savory blend of lobster, jumbo shrimp, scallops and crab meat sauteed in our chef's house white sauce.</td>
+        <td class="desc">A savory blend of lobster, jumbo shrimp, scallops and crab meat sauteed in our chef's house white sauce.</td>
         <td></td>
       </tr>
 
@@ -87,25 +87,7 @@
       </tr>
       <tr>
         <td colspan="2"></td>
-        <td>Fresh assorted vegetables w. beef, jumbo shrimp, chicken, roast pork & scallops in light brown sauce, served in a sizzling platter.</td>
-        <td></td>
-      </tr>
-
-      <tr>
-        <td colspan="2"></td>
-        <td></td>
-        <td></td>
-      </tr>
-
-      <tr>
-        <td colspan="2"></td>
-        <td></td>
-        <td></td>
-      </tr>
-
-      <tr>
-        <td colspan="2"></td>
-        <td></td>
+        <td class="desc">Fresh assorted vegetables w. beef, jumbo shrimp, chicken, roast pork & scallops in light brown sauce, served in a sizzling platter.</td>
         <td></td>
       </tr>
 
@@ -120,7 +102,7 @@
 
       <tr>
         <td colspan="2"></td>
-        <td>Shrimp quickly braised in hot oil and coated with a tasty fruit sauce combined with Grand Marnier.</td>
+        <td class="desc">Shrimp quickly braised in hot oil and coated with a tasty fruit sauce combined with Grand Marnier.</td>
         <td></td>
       </tr>
 
@@ -134,7 +116,7 @@
       </tr>
       <tr>
         <td colspan="2"></td>
-        <td>Filet steak in black peppercorn sauce served in a sizzling platter.</td>
+        <td class="desc">Filet steak in black peppercorn sauce served in a sizzling platter.</td>
         <td></td>
       </tr>
       <tr>
@@ -153,7 +135,7 @@
       </tr>
       <tr>
         <td colspan="2"></td>
-        <td>Crispy whole sea bass w/ sweet & spicy sauce and pine nut.</td>
+        <td class="desc">Crispy whole sea bass w/ sweet & spicy sauce and pine nut.</td>
         <td></td>
         </tr>
       <tr>
@@ -172,7 +154,7 @@
       </tr>
       <tr>
         <td colspan="2"></td>
-        <td>Crispy jumbo shrimp (unpeeled) delicately stir-fried with diced onions, scallions, shredded dry hot peppers, prepared for those who prefer individual flavors, without sauce.</td>
+        <td class="desc">Crispy jumbo shrimp (unpeeled) delicately stir-fried with diced onions, scallions, shredded dry hot peppers, prepared for those who prefer individual flavors, without sauce.</td>
         <td></td>
       </tr>
       <tr>
@@ -191,7 +173,7 @@
       </tr>
       <tr>
         <td colspan="2"></td>
-        <td>Steak cake & prawn stir fried w/ vegetable.</td>
+        <td class="desc">Steak cake & prawn stir fried w/ vegetable.</td>
         <td></td>
       </tr>
         <tr>
@@ -211,7 +193,7 @@
 
       <tr>
         <td colspan="2"></td>
-        <td>Prawn, scallop, chicken light breaded in spicy sauce.</td>
+        <td class="desc">Prawn, scallop, chicken light breaded in spicy sauce.</td>
         <td></td>
       </tr>
       <tr>
@@ -230,7 +212,7 @@
       </tr>
       <tr>
         <td colspan="2"></td>
-        <td>Prawn's & chunks & chicken light breaded in spicy sauce.</td>
+        <td class="desc">Prawn's & chunks & chicken light breaded in spicy sauce.</td>
         <td></td>
       </tr>
       <tr>
@@ -249,7 +231,7 @@
       </tr>
       <tr>
         <td colspan="2"></td>
-        <td>Prawn in light breaded w/ chef's special chili sauce.</td>
+        <td class="desc">Prawn in light breaded w/ chef's special chili sauce.</td>
         <td></td>
       </tr>
       <tr>
@@ -268,7 +250,7 @@
       </tr>
       <tr>
         <td colspan="2"></td>
-        <td>Sprinkled pine nuts on stir-fried vegetables chopped & wrapped in fresh lettuce leaves for a delicious experience.</td>
+        <td class="desc">Sprinkled pine nuts on stir-fried vegetables chopped & wrapped in fresh lettuce leaves for a delicious experience.</td>
         <td></td>
       </tr>
       <tr>
@@ -287,7 +269,7 @@
       </tr>
       <tr>
         <td colspan="2"></td>
-        <td>Stir fried scallop, prawn, chunk in Hunan style spicy black bean sauce.</td>
+        <td class="desc">Stir fried scallop, prawn, chunk in Hunan style spicy black bean sauce.</td>
         <td></td>
       </tr>
       <tr>
@@ -306,7 +288,7 @@
       </tr>
       <tr>
         <td colspan="2"></td>
-        <td>Fried crispy fillet of flounder in sweet and spicy sauce.</td>
+        <td class="desc">Fried crispy fillet of flounder in sweet and spicy sauce.</td>
         <td></td>
       </tr>
       <tr>
@@ -325,7 +307,7 @@
       </tr>
       <tr>
         <td colspan="2"></td>
-        <td>(A) Soft shell crab backed w/ salt and pepper.</br>
+        <td class="desc">(A) Soft shell crab backed w/ salt and pepper.</br>
         (B) Soft shell crab w/ black bean sauce.</td>
         <td></td>
       </tr>
@@ -345,7 +327,7 @@
       </tr>
       <tr>
         <td colspan="2"></td>
-        <td>Big piece of salmon fillet w/ black bean sauce served in sizzling plate.</td>
+        <td class="desc">Big piece of salmon fillet w/ black bean sauce served in sizzling plate.</td>
         <td></td>
       </tr>
       <tr>
@@ -364,7 +346,7 @@
       </tr>
       <tr>
         <td colspan="2"></td>
-        <td>Chicken & jumbo shrimp crispy fried in chef's special sauce.</td>
+        <td class="desc">Chicken & jumbo shrimp crispy fried in chef's special sauce.</td>
         <td></td>
       </tr>
       <tr>
@@ -384,7 +366,7 @@
 
       <tr>
         <td colspan="2"></td>
-        <td>Jumbo shrimp in a rich brown sauce accompanied by savory mushrooms, shitake mushrooms and Chinese black mushrooms.</td>
+        <td class="desc">Jumbo shrimp in a rich brown sauce accompanied by savory mushrooms, shitake mushrooms and Chinese black mushrooms.</td>
         <td></td>
       </tr>
 
@@ -419,7 +401,7 @@
       <tr>
         <td></td>
         <td width="25">3.</td>
-        <td width="280">Salted fish w/ Bean Curd & Veg</td>
+        <td width="280">Salted Fish w/ Bean Curd & Veg</td>
         <td width="120">鹹魚雞粒豆腐煲</td>
         <td>13.95</td>
       </tr>
@@ -571,7 +553,7 @@
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
     <span class="zh menucategory">湯類</span>
 
-    <table class="menutable" border="0">
+    <table class="menutable mt-0" border="0">
       <tr>
         <td></td>
         <td width="18"></td>
@@ -727,9 +709,9 @@
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
     <span class="zh menucategory">飯麵類</span>
 
-    <p>Choice of Pork, Chicken, Beef or Shrimp</p>
+    <p class="desc mb-0"><em>Choice of Pork, Chicken, Beef or Shrimp</em></p>
 
-    <table class="menutable" border="0">
+    <table class="menutable mt-0" border="0">
       <tr>
         <td></td>
         <td width="25"></td>
@@ -903,8 +885,8 @@
 
       <tr>
         <td></td>
-        <td>58.<img src="~/assets/images/spicy.gif" width="13" height="18"></td>
-        <td>Singapore Style Rice Noodles</td>
+        <td>58.</td>
+        <td>Singapore Style Rice Noodles<img src="~/assets/images/spicy.gif" width="13" height="18"></td>
         <td>星洲米粉</td>
         <td></td>
         <td>9.50</td>
@@ -1700,7 +1682,7 @@
         <td></td>
         <td>145.</td>
         <td><img src="~/assets/images/spicy.gif" width="13" height="18"></td>
-        <td>General Tao's Scallop</td>
+        <td>General Tso's Scallop</td>
         <td>左宗乾貝</td>
         <td>15.95</td>
       </tr>
@@ -1818,9 +1800,8 @@
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
     <span class="zh menucategory">減肥茶</span>
 
-    <p>All dishes especially prepared for the health conscious, served with dipping sauce on the side<br>
-    (Choice of Brown Sauce or Garlic Sauce)<br>
-    Natural Brown Rice Available</p>
+    <p class="desc"><em>All dishes especially prepared for the health conscious, served with dipping sauce on the side
+    (Choice of brown sauce or garlic sauce).<br>Natural brown rice available.</em></p>
 
     <table class="menutable" border="0">
       <tr>
@@ -1891,5 +1872,9 @@
 .menutable {
   margin-bottom: 1em;
   margin-top: 0.5em;
+}
+
+.desc {
+  font-weight: 300;
 }
 </style>
