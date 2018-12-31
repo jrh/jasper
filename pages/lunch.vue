@@ -553,8 +553,6 @@ export default {
 	margin-top: 0.5em;
 }
 
-img {
-  padding-bottom: 4px;
-}
+img { padding-bottom: 4px; }
 </style>
 

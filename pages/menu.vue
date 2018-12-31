@@ -1815,7 +1815,7 @@
       <tr>
         <td></td>
         <td>159.</td>
-        <td>Steamed Chicken with Assorted Vegetables</td>
+        <td>Steamed Chicken w/ Assorted Vegetables</td>
         <td>蒸七彩雞</td>
         <td>10.95</td>
       </tr>

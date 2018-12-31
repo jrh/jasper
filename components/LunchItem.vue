@@ -21,9 +21,8 @@ export default {
 </script>
 
 <style scoped>
-tr {
-  line-height: 30px;
-}
+tr { line-height: 30px; }
+td { vertical-align: top; }
 img {
   height: 18px;
   padding-bottom: 4px;
