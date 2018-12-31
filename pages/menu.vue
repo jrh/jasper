@@ -24,22 +24,22 @@
 
         <tr>
           <td colspan="2"></td>
-          <td class="desc">Fresh whole lobster roasted lightly w. ginger and scallion, lobster lovers - "Don't Miss This One".</td>
+          <td class="desc">Fresh whole lobster roasted lightly w/ ginger and scallion, lobster lovers - "Don't Miss This One".</td>
           <td></td>
         </tr>
 
         <tr>
           <td>S 2.</td>
           <td></td>
-          <td>Jasper Filet Mignon
+          <td>Jasper Filet Mignon Steak
           &nbsp; &nbsp; &nbsp;
           欣旺牛柳</td>
-          <td align="right">23.95</td>
+          <td align="right">24.95</td>
         </tr>
 
         <tr>
           <td colspan="2"></td>
-          <td class="desc">Choice filet mignon sauteed with fresh mushrooms, snow peas, baby corn and carrots in our chef's signature steak sauce.</td>
+          <td class="desc">Choice filet mignon sauteed w/ fresh mushrooms, snow peas, baby corn and carrots in our chef's signature steak sauce.</td>
           <td></td>
         </tr>
 
@@ -64,11 +64,11 @@
           <td>Neptune in Basket
           &nbsp; &nbsp; &nbsp;
           雀巢海鮮</td>
-          <td align="right">20.95</td>
+          <td align="right">21.95</td>
         </tr>
         <tr>
           <td colspan="2"></td>
-          <td class="desc">A savory blend of lobster, jumbo shrimp, scallops and crab meat sauteed in our chef's house white sauce.</td>
+          <td class="desc">A savory blend of lobster, jumbo shrimp, scallops and crab meat sauteed in chef's house white sauce.</td>
           <td></td>
         </tr>
 
@@ -78,7 +78,7 @@
           <td>Happy Family
           &nbsp; &nbsp; &nbsp;
           全家福</td>
-          <td align="right">18.95</td>
+          <td align="right">19.95</td>
         </tr>
         <tr>
           <td colspan="2"></td>
@@ -92,7 +92,7 @@
           <td>Grand Marnier Shrimp
           &nbsp; &nbsp; &nbsp;
           果汁大蝦</td>
-          <td align="right">18.95</td>
+          <td align="right">19.95</td>
         </tr>
 
         <tr>
@@ -107,7 +107,7 @@
           <td>Sizzling Steak
           &nbsp; &nbsp; &nbsp;
           鐵板牛扒</td>
-          <td align="right">20.95</td>
+          <td align="right">21.95</td>
         </tr>
         <tr>
           <td colspan="2"></td>
@@ -126,7 +126,7 @@
           <td>Southern Fried Sea Bass
           &nbsp; &nbsp; &nbsp;
           松子全魚</td>
-          <td align="right">22.95</td>
+          <td align="right">23.95</td>
         </tr>
         <tr>
           <td colspan="2"></td>
@@ -145,7 +145,7 @@
           <td>Jumbo Shrimp Hong Kong Style
           &nbsp; &nbsp; &nbsp;
           避風塘大蝦</td>
-          <td align="right">18.95</td>
+          <td align="right">19.95</td>
         </tr>
         <tr>
           <td colspan="2"></td>
@@ -164,7 +164,7 @@
           <td>Steak and Shrimp
           &nbsp; &nbsp; &nbsp;
           的士蝦球</td>
-          <td align="right">18.95</td>
+          <td align="right">19.95</td>
         </tr>
         <tr>
           <td colspan="2"></td>
@@ -183,12 +183,12 @@
           <td>Stir Fried Seafood w/ Chicken
           &nbsp; &nbsp; &nbsp;
           三鮮球</td>
-          <td align="right">18.95</td>
+          <td align="right">19.95</td>
         </tr>
 
         <tr>
           <td colspan="2"></td>
-          <td class="desc">Prawn, scallop, chicken light breaded in spicy sauce.</td>
+          <td class="desc">Prawn, scallop, chicken w/ mixed vegetables in white sauce.</td>
           <td></td>
         </tr>
         <tr>
@@ -203,7 +203,7 @@
           <td>Dragon & Phoenix
           &nbsp; &nbsp; &nbsp;
           龍鳳配</td>
-          <td align="right">18.95</td>
+          <td align="right">19.95</td>
         </tr>
         <tr>
           <td colspan="2"></td>
@@ -222,7 +222,7 @@
           <td>Heavenly Shrimp
           &nbsp; &nbsp; &nbsp;
           海皇大蝦</td>
-          <td align="right">18.95</td>
+          <td align="right">19.95</td>
         </tr>
         <tr>
           <td colspan="2"></td>
@@ -241,7 +241,7 @@
           <td>Vegetarian Lotus Blossom
           &nbsp; &nbsp; &nbsp;
           佛燈生菜藕</td>
-          <td align="right">13.95</td>
+          <td align="right">14.95</td>
         </tr>
         <tr>
           <td colspan="2"></td>
@@ -260,7 +260,7 @@
           <td>Royally Hunan
           &nbsp; &nbsp; &nbsp;
           湖南三樣</td>
-          <td align="right">18.95</td>
+          <td align="right">19.95</td>
         </tr>
         <tr>
           <td colspan="2"></td>
@@ -276,10 +276,10 @@
         <tr>
           <td>S 16.</td>
           <td><img src="~/assets/images/spicy.gif" width="13" height="18"></td>
-          <td>Fillet of fish w/ pine nut
+          <td>Fillet of Fish w/ Pine Nut
           &nbsp; &nbsp; &nbsp;
           脆皮魚片</td>
-          <td align="right">15.95</td>
+          <td align="right">16.95</td>
         </tr>
         <tr>
           <td colspan="2"></td>
@@ -298,7 +298,7 @@
           <td>Soft Shell Crab
           &nbsp; &nbsp; &nbsp;
           軟豉蟹</td>
-          <td align="right">20.95</td>
+          <td align="right">21.95</td>
         </tr>
         <tr>
           <td colspan="2"></td>
@@ -318,7 +318,7 @@
           <td>Sizzling Salmon
           &nbsp; &nbsp; &nbsp;
           豉汁鐵板三文魚</td>
-          <td align="right">15.95</td>
+          <td align="right">16.95</td>
         </tr>
         <tr>
           <td colspan="2"></td>
@@ -337,7 +337,7 @@
           <td>Crispy Chicken & Shrimp
           &nbsp; &nbsp; &nbsp;
           豉汁鐵板三文魚</td>
-          <td align="right">15.95</td>
+          <td align="right">16.95</td>
         </tr>
         <tr>
           <td colspan="2"></td>
@@ -356,7 +356,7 @@
           <td>Three Musketeers
           &nbsp; &nbsp; &nbsp;
           三菇大蝦</td>
-          <td align="right">18.95</td>
+          <td align="right">19.95</td>
         </tr>
 
         <tr>
@@ -652,17 +652,7 @@
           <td>Seafood Bean Curd & Vegetable Soup (2)</td>
           <td>海鮮豆腐湯</td>
           <td></td>
-          <td>8.95</td>
-        </tr>
-
-        <tr>
-          <td></td>
-          <td>29.</td>
-          <td></td>
-          <td>Seafood Bean Curd & Vegetable Soup (2)</td>
-          <td>西洋菜肉片湯</td>
-          <td></td>
-          <td>6.95</td>
+          <td>9.95</td>
         </tr>
 
         <tr>
@@ -1303,7 +1293,7 @@
           <td width="18"></td>
           <td width="260">Moo Shu Pork</td>
           <td width="120">木須肉</td>
-          <td>9.95</td>
+          <td>10.95</td>
         </tr>
 
         <tr>
@@ -1312,7 +1302,7 @@
           <td></td>
           <td>Pork w. Dried Bean Curd</td>
           <td>香乾肉絲</td>
-          <td>9.00</td>
+          <td>10,95</td>
         </tr>
 
         <tr>
@@ -1321,7 +1311,7 @@
           <td></td>
           <td>Roast Pork w. Mixed Vegetables</td>
           <td>什菜叉燒</td>
-          <td>9.95</td>
+          <td>10.95</td>
         </tr>
 
         <tr>
@@ -1330,7 +1320,7 @@
           <td></td>
           <td>Roast Pork w. Fresh Mushrooms</td>
           <td>鮮菇叉燒</td>
-          <td>9.95</td>
+          <td>10.95</td>
         </tr>
 
         <tr>
@@ -1339,7 +1329,7 @@
           <td><img src="~/assets/images/spicy.gif" width="13" height="18"></td>
           <td>Pork w. Garlic Sauce</td>
           <td>魚香肉絲</td>
-          <td>9.95</td>
+          <td>10.95</td>
         </tr>
 
         <tr>
@@ -1348,7 +1338,7 @@
           <td></td>
           <td>Sweet & Sour Pork</td>
           <td>酸甜肉</td>
-          <td>9.95</td>
+          <td>10.95</td>
         </tr>
 
         <tr>
@@ -1357,7 +1347,7 @@
           <td></td>
           <td>Beijing Pork Loin</td>
           <td>京都肉排</td>
-          <td>13.75</td>
+          <td>14.75</td>
         </tr>
 
         <tr>
@@ -1366,16 +1356,16 @@
           <td><img src="~/assets/images/spicy.gif" width="13" height="18"></td>
           <td>Pepper Pork Loin</td>
           <td>椒鹽肉排</td>
-          <td>13.75</td>
+          <td>14.75</td>
         </tr>
 
         <tr>
           <td></td>
           <td>111.</td>
           <td><img src="~/assets/images/spicy.gif" width="13" height="18"></td>
-          <td>Pepper Pork Loin</td>
+          <td>Twice Cooked Pork</td>
           <td>回鍋肉</td>
-          <td>9.95</td>
+          <td>10.95</td>
         </tr>
 
         <tr>
@@ -1384,7 +1374,7 @@
           <td></td>
           <td>Shredded Pork w/ String Bean</td>
           <td>四季豆肉</td>
-          <td>9.95</td>
+          <td>10.95</td>
         </tr>
 
         <tr>
@@ -1393,7 +1383,7 @@
           <td></td>
           <td>Roast Pork w/ Snow Pea</td>
           <td>雪豆叉燒</td>
-          <td>10.95</td>
+          <td>11.95</td>
         </tr>
 
         <tr>
@@ -1402,7 +1392,7 @@
           <td><img src="~/assets/images/spicy.gif" width="13" height="18"></td>
           <td>Hunan Pork</td>
           <td>湖南肉</td>
-          <td>9.95</td>
+          <td>10.95</td>
         </tr>
 
         <tr>
@@ -1411,7 +1401,7 @@
           <td></td>
           <td>Fresh Pork Chop w/ Onion</td>
           <td>洋蔥肉排</td>
-          <td>12.95</td>
+          <td>13.95</td>
         </tr>
 
         <tr>
@@ -1420,7 +1410,7 @@
           <td></td>
           <td>Fresh Pork w/ Bitten Melon</td>
           <td>涼瓜肉</td>
-          <td>9.95</td>
+          <td>10.95</td>
         </tr>
 
         <tr>
@@ -1429,7 +1419,7 @@
           <td></td>
           <td>Steam Ground Pork w/ Diced Salted Fish</td>
           <td>鹹魚蒸肉餅</td>
-          <td>14.95</td>
+          <td>15.95</td>
         </tr>
 
         <tr>
@@ -1438,7 +1428,7 @@
           <td></td>
           <td>Steam Ground Pork w/ Diced Salted Egg</td>
           <td>鹹蛋蒸肉餅</td>
-          <td>12.75</td>
+          <td>13.95</td>
         </tr>
 
         <tr>
@@ -1447,7 +1437,7 @@
           <td></td>
           <td>Pork Eggplant w/ Garlic Sauce</td>
           <td>茄子肉片</td>
-          <td>9.95</td>
+          <td>10.95</td>
         </tr>
 
         <tr>
@@ -1456,7 +1446,7 @@
           <td></td>
           <td>Shredded Pork w/ Chinese Celery</td>
           <td>芹菜肉絲</td>
-          <td>9.95</td>
+          <td>10.95</td>
         </tr>
 
         <tr>
@@ -1465,16 +1455,16 @@
           <td></td>
           <td>Sliced Pork w/ Pickled Mustard</td>
           <td>酸菜肉片</td>
-          <td>9.95</td>
+          <td>10.95</td>
         </tr>
 
         <tr>
           <td></td>
           <td>122.</td>
           <td></td>
-          <td>Pepper Pork Loin</td>
+          <td>Sliced Pork w/ Bitter Zucchini</td>
           <td>升肉瓜</td>
-          <td>9.95</td>
+          <td>10.95</td>
         </tr>
       </tbody>
     </table>
@@ -1534,7 +1524,7 @@
           <td></td>
           <td>128.</td>
           <td><img src="~/assets/images/spicy.gif" width="13" height="18"></td>
-          <td>Sha Cha Beef Chinese BBQ Sauce</td>
+          <td>Sha Cha Beef w/ Chinese BBQ Sauce</td>
           <td>沙茶牛肉</td>
           <td>11.95</td>
         </tr>
@@ -1579,7 +1569,7 @@
           <td></td>
           <td>133.</td>
           <td></td>
-          <td>Beef Triple w/ Pickled Mustard</td>
+          <td>Beef Tripe w/ Pickled Mustard</td>
           <td>酸菜牛百葉</td>
           <td>11.95</td>
         </tr>
