@@ -381,34 +381,38 @@
       <tbody>
         <tr>
           <td></td>
-          <td width="25">1.</td>
+          <td width="18">1.</td>
+          <td width="18"></td>
           <td width="280">Seafood w/ Fried Bean Curd</td>
           <td width="120">海鮮豆腐煲</td>
-          <td>16.95</td>
+          <td align="right">17.95</td>
         </tr>
 
         <tr>
           <td></td>
-          <td width="25">2.</td>
+          <td width="18">2.</td>
+          <td width="18"></td>
           <td width="280">Black Fish Kew w/ Bean Curd</td>
           <td width="120">班腩豆腐煲</td>
-          <td>13.95</td>
+          <td align="right">14.95</td>
         </tr>
 
         <tr>
           <td></td>
-          <td width="25">3.</td>
-          <td width="280">Salted Fish w/ Bean Curd & Veg</td>
+          <td width="18">3.</td>
+          <td width="18"></td>
+          <td width="280">Salted Fish w/ Bean Curd & Vegetables</td>
           <td width="120">鹹魚雞粒豆腐煲</td>
-          <td>13.95</td>
+          <td align="right">14.95</td>
         </tr>
 
         <tr>
           <td></td>
-          <td width="25">4.</td>
+          <td width="18">4.</td>
+          <td width="18"></td>
           <td width="280">Beef Stew w/ Radish in Special Sauce</td>
           <td width="120">蘿蔔牛腩煲</td>
-          <td>11.95</td>
+          <td align="right">12.95</td>
         </tr>
       </tbody>
     </table>
@@ -421,130 +425,146 @@
       <tbody>
         <tr>
           <td></td>
-          <td width="25">5.</td>
+          <td width="18">5.</td>
+          <td width="18"></td>
           <td width="280">Egg Roll (1)</td>
           <td width="120">春捲</td>
-          <td>1.50</td>
-        </tr>
-
-        <tr>
-          <td></td>
-          <td>6.</td>
-          <td>Vegetarian Spring Roll (1)</td>
-          <td>蔬菜捲</td>
-          <td>1.50</td>
-        </tr>
-
-        <tr>
-          <td></td>
-          <td>7.</td>
-          <td>Shrimp Spring Roll (1)</td>
-          <td>蝦上海春捲</td>
           <td>1.75</td>
         </tr>
 
         <tr>
           <td></td>
+          <td>6.</td>
+          <td></td>
+          <td>Vegetable Roll (1)</td>
+          <td>蔬菜捲</td>
+          <td>1.75</td>
+        </tr>
+
+        <tr>
+          <td></td>
+          <td>7.</td>
+          <td></td>
+          <td>Shrimp Spring Roll (1)</td>
+          <td>蝦上海春捲</td>
+          <td>1.95</td>
+        </tr>
+
+        <tr>
+          <td></td>
           <td>8.</td>
+          <td></td>
           <td>Teriyaki Beef (2)</td>
           <td>牛肉串</td>
-          <td>4.50</td>
+          <td>5.50</td>
         </tr>
 
         <tr>
           <td></td>
           <td>9.</td>
-          <td>Dim Sum (Shrimp / Pork) (4)</td>
+          <td></td>
+          <td>Dim Sum (4) (Shrimp / Pork)</td>
           <td>點心</td>
-          <td>4.25</td>
+          <td>4.50</td>
         </tr>
 
         <tr>
           <td></td>
           <td>10.</td>
+          <td></td>
           <td>Shrimp Toast (4)</td>
           <td>蝦土司</td>
-          <td>6.50</td>
+          <td>7.50</td>
         </tr>
 
         <tr>
           <td></td>
           <td>11.</td>
+          <td></td>
           <td>Steamed or Pan Fried Dumplings (6)</td>
           <td>水餃或鍋貼</td>
-          <td>4.75</td>
+          <td>5.75</td>
         </tr>
 
         <tr>
           <td></td>
           <td>12.</td>
-          <td>Steamed Vegetable Dumplings (6)</td>
-          <td>蔬菜餃</td>
-          <td>4.75</td>
+          <td></td>
+          <td>Steamed or Pan Fried Veg Dumplings (6)</td>
+          <td>蔬菜餃餃或蔬菜貼</td>
+          <td>5.75</td>
         </tr>
 
         <tr>
           <td></td>
           <td>13.</td>
+          <td></td>
           <td>Cold Sesame Noodles</td>
           <td>涼麵</td>
-          <td>4.75</td>
+          <td>5.75</td>
         </tr>
 
         <tr>
           <td></td>
           <td>14.</td>
+          <td></td>
           <td>Barbecued Spare Ribs</td>
           <td>排骨</td>
-          <td>(5) 6.50 (10) 12.95</td>
+          <td>(5) 7.50 (10) 13.95</td>
         </tr>
 
         <tr>
           <td></td>
           <td>15.</td>
+          <td></td>
           <td>Chicken Wing (8)</td>
           <td>雞翅膀</td>
-          <td>5.95</td>
+          <td>6.95</td>
         </tr>
 
         <tr>
           <td></td>
           <td>16.</td>
-          <td>Spicy Shrimp<img src="~/assets/images/spicy.gif" width="13" height="18"></td>
+          <td><img src="~/assets/images/spicy.gif" width="13" height="18"></td>
+          <td>Spicy Shrimp</td>
           <td>麻辣蝦</td>
-          <td>8.95</td>
+          <td>9.95</td>
         </tr>
 
         <tr>
           <td></td>
           <td>17.</td>
+          <td></td>
           <td>Assorted Appetizers (2)</td>
           <td>寶寶盤</td>
-          <td>13.95</td>
+          <td>14.95</td>
         </tr>
 
         <tr>
           <td></td>
           <td>18.</td>
+          <td></td>
           <td>Shrimp Tempura (2)</td>
           <td>鳳尾蝦</td>
-          <td>4.95</td>
+          <td>5.95</td>
         </tr>
 
         <tr>
           <td></td>
           <td>19.</td>
+          <td></td>
           <td>Scallion Pancakes (2)</td>
           <td>蔥油餅</td>
-          <td>4.95</td>
+          <td>5.95</td>
         </tr>
 
         <tr>
           <td></td>
           <td>20.</td>
+          <td></td>
           <td>Boneless Spare Ribs</td>
           <td>無骨排</td>
-          <td>(S)6.50 (L)11.50</td>
+          <td>(S) 7.50 (L) 12.50</td>
         </tr>
       </tbody>
     </table>
@@ -559,10 +579,9 @@
           <td></td>
           <td width="18"></td>
           <td width="18"></td>
-          <td width="266"></td>
+          <td width="280"></td>
           <td width="120"></td>
-          <td width="50">Pt.</td>
-          <td>Qt.</td>
+          <td></td>
         </tr>
 
         <tr>
@@ -571,8 +590,7 @@
           <td></td>
           <td>Egg Drop Soup</td>
           <td>蛋花湯</td>
-          <td>1.50</td>
-          <td>2.95</td>
+          <td>1.75</td>
         </tr>
 
         <tr>
@@ -581,18 +599,16 @@
           <td></td>
           <td>Wonton Soup</td>
           <td>雲吞湯</td>
-          <td>1.95</td>
-          <td>3.75</td>
+          <td>2.15</td>
         </tr>
 
         <tr>
           <td></td>
           <td>23.</td>
           <td><img src="~/assets/images/spicy.gif" width="13" height="18"></td>
-          <td>Vegetarian Hot & Sour Soup</td>
+          <td>Vegetable Hot & Sour Soup</td>
           <td>酸辣湯</td>
-          <td>1.95</td>
-          <td>3.75</td>
+          <td>2.15</td>
         </tr>
 
         <tr>
@@ -602,37 +618,33 @@
           <td>Wonton & Egg Drop Soup</td>
           <td>雲屯蛋花湯</td>
           <td>2.50</td>
-          <td>4.50</td>
         </tr>
 
         <tr>
           <td></td>
           <td>25.</td>
           <td></td>
-          <td>Green Jade Soup</td>
+          <td>Green Jade Soup (2)</td>
           <td>菠菜豆腐湯</td>
-          <td></td>
-          <td>4.95</td>
+          <td>5.95</td>
         </tr>
 
         <tr>
           <td></td>
           <td>26.</td>
           <td></td>
-          <td>West Lake Beef Soup</td>
+          <td>West Lake Beef Soup (2)</td>
           <td>西湖牛肉羹</td>
-          <td></td>
-          <td>6.95</td>
+          <td>7.95</td>
         </tr>
 
         <tr>
           <td></td>
           <td>27.</td>
           <td><img src="~/assets/images/spicy.gif" width="13" height="18"></td>
-          <td>Seafood Hot & Sour Soup</td>
+          <td>Seafood Hot & Sour Soup (2)</td>
           <td>海鮮酸辣湯</td>
-          <td></td>
-          <td>6.95</td>
+          <td>7.95</td>
         </tr>
 
         <tr>
@@ -641,8 +653,7 @@
           <td></td>
           <td>Chicken Corn Soup (2)</td>
           <td>雞玉米湯</td>
-          <td></td>
-          <td>5.95</td>
+          <td>6.95</td>
         </tr>
 
         <tr>
@@ -651,7 +662,6 @@
           <td></td>
           <td>Seafood Bean Curd & Vegetable Soup (2)</td>
           <td>海鮮豆腐湯</td>
-          <td></td>
           <td>9.95</td>
         </tr>
 
@@ -661,8 +671,7 @@
           <td></td>
           <td>Fresh Pork w/ Watercress</td>
           <td>西洋菜肉片湯</td>
-          <td></td>
-          <td>6.95</td>
+          <td>7.95</td>
         </tr>
 
         <tr>
@@ -671,8 +680,7 @@
           <td></td>
           <td>Fresh Pork w/ Pickled Mustard</td>
           <td>酸菜豆腐肉湯</td>
-          <td></td>
-          <td>6.95</td>
+          <td>7.95</td>
         </tr>
 
         <tr>
@@ -681,18 +689,16 @@
           <td></td>
           <td>Subgum Bean Curd</td>
           <td>八寶豆腐湯</td>
-          <td></td>
-          <td>8.95</td>
+          <td>9.95</td>
         </tr>
 
         <tr>
           <td></td>
           <td>33.</td>
           <td></td>
-          <td>Subgum Watermelon</td>
+          <td>Subgum Winter Melon</td>
           <td>八寶冬瓜湯</td>
-          <td></td>
-          <td>8.95</td>
+          <td>9.95</td>
         </tr>
       </tbody>
     </table>
@@ -701,278 +707,348 @@
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
     <span class="zh menucategory">飯麵類</span>
 
-    <p class="desc mb-0"><em>Choice of Pork, Chicken, Beef or Shrimp</em></p>
+    <!-- <p class="desc mb-0"><em>Choice of Pork, Chicken, Beef or Shrimp</em></p> -->
 
     <table class="menutable mt-0" border="0">
       <tbody>
         <tr>
           <td></td>
-          <td width="25"></td>
-          <td width="277"></td>
+          <td width="18"></td>
+          <td width="18"></td>
+          <td width="280"></td>
           <td width="120"></td>
-          <td width="50">Pt.</td>
-          <td align="right">Qt.</td>
+          <td></td>
         </tr>
 
         <tr>
           <td></td>
           <td>34.</td>
+          <td></td>
           <td>Vegetable Fried Rice</td>
           <td>蔬菜炒飯</td>
-          <td>5.25</td>
-          <td align="right">8.95</td>
+          <td>9.95</td>
         </tr>
 
         <tr>
           <td></td>
           <td>35.</td>
+          <td></td>
           <td>Chicken Fried Rice</td>
           <td>雞炒飯</td>
-          <td>5.25</td>
-          <td align="right">8.95</td>
+          <td>9.95</td>
         </tr>
 
         <tr>
           <td></td>
           <td>36.</td>
+          <td></td>
           <td>Pork Fried Rice</td>
           <td>肉炒飯</td>
-          <td>5.25</td>
-          <td align="right">8.95</td>
+          <td>9.95</td>
         </tr>
 
         <tr>
           <td></td>
           <td>37.</td>
+          <td></td>
           <td>Beef Fried Rice</td>
           <td>牛肉炒飯</td>
-          <td>5.25</td>
-          <td align="right">8.95</td>
+          <td>9.95</td>
         </tr>
 
         <tr>
           <td></td>
           <td>38.</td>
+          <td></td>
           <td>Shrimp Fried Rice</td>
           <td>蝦炒飯</td>
-          <td>5.25</td>
-          <td align="right">8.95</td>
+          <td>9.95</td>
         </tr>
 
         <tr>
           <td></td>
           <td>39.</td>
+          <td></td>
           <td>House Special Fried Rice</td>
           <td>本樓炒飯</td>
-          <td>6.25</td>
-          <td align="right">9.50</td>
+          <td>10.50</td>
         </tr>
 
         <tr>
           <td></td>
           <td>40.</td>
+          <td></td>
           <td>Young Chow Fried Rice</td>
           <td>揚州炒飯</td>
-          <td>5.25</td>
-          <td align="right">9.50</td>
+          <td>10.50</td>
         </tr>
 
         <tr>
           <td></td>
           <td>41.</td>
+          <td></td>
           <td>Vegetable Lo Mein</td>
           <td>蔬菜撈麵</td>
-          <td>5.25</td>
-          <td align="right">8.50</td>
+          <td>9.50</td>
         </tr>
 
         <tr>
           <td></td>
           <td>42.</td>
+          <td></td>
           <td>Chicken Lo Mein</td>
           <td>雞撈麵</td>
-          <td>5.25</td>
-          <td align="right">8.50</td>
+          <td>9.50</td>
         </tr>
 
         <tr>
           <td></td>
           <td>43.</td>
+          <td></td>
           <td>Pork Lo Mein</td>
           <td>肉撈麵</td>
-          <td>5.25</td>
-          <td align="right">8.50</td>
+          <td>9.50</td>
         </tr>
 
         <tr>
           <td></td>
           <td>44.</td>
+          <td></td>
           <td>Beef Lo Mein</td>
           <td>牛肉撈麵</td>
-          <td>5.25</td>
-          <td align="right">8.50</td>
+          <td>9.50</td>
         </tr>
 
         <tr>
           <td></td>
           <td>45.</td>
+          <td></td>
           <td>Shrimp Lo Mein</td>
           <td>蝦撈麵</td>
-          <td>5.25</td>
-          <td align="right">8.50</td>
+          <td>10.50</td>
         </tr>
 
         <tr>
           <td></td>
           <td>46.</td>
+          <td></td>
           <td>House Special Lo Mein</td>
           <td>本樓撈麵</td>
-          <td>5.25</td>
-          <td align="right">8.50</td>
+          <td>11.50</td>
         </tr>
 
         <tr>
           <td></td>
           <td>47.</td>
-          <td>Chow Fun Any Style (Vegetable, Chicken, Pork, Beef, Shrimp)</td>
-          <td>各式河粉</td>
           <td></td>
-          <td>8.50</td>
+          <td>Vegetable Chow Fun</td>
+          <td>蔬菜河粉</td>
+          <td>9.50</td>
+        </tr>
+
+        <tr>
+          <td></td>
+          <td>48.</td>
+          <td></td>
+          <td>Chicken Chow Fun</td>
+          <td>雞河粉</td>
+          <td>9.50</td>
+        </tr>
+
+        <tr>
+          <td></td>
+          <td>49.</td>
+          <td></td>
+          <td>Pork Chow Fun</td>
+          <td>肉河粉</td>
+          <td>9.50</td>
+        </tr>
+
+        <tr>
+          <td></td>
+          <td>50.</td>
+          <td></td>
+          <td>Beef Chow Fun</td>
+          <td>牛河粉</td>
+          <td>9.50</td>
+        </tr>
+
+        <tr>
+          <td></td>
+          <td>51.</td>
+          <td></td>
+          <td>Shrimp Chow Fun</td>
+          <td>蝦河粉</td>
+          <td>10.50</td>
         </tr>
 
         <tr>
           <td></td>
           <td>52.</td>
+          <td></td>
           <td>House Special Chow Fun</td>
           <td>本樓河粉</td>
-          <td></td>
-          <td>10.50</td>
+          <td>11.50</td>
         </tr>
 
         <tr>
           <td></td>
           <td>53.</td>
-          <td>Rice Noodles Any Style (Chicken, Pork, Beef)</td>
-          <td>各式米粉</td>
           <td></td>
-          <td>8.50</td>
+          <td>Chicken Rice Noodles</td>
+          <td>雞米粉</td>
+          <td>9.50</td>
+        </tr>
+
+        <tr>
+          <td></td>
+          <td>54.</td>
+          <td></td>
+          <td>Pork Rice Noodles</td>
+          <td>肉米粉</td>
+          <td>9.50</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>55.</td>
+          <td></td>
+          <td>Beef Rice Noodles</td>
+          <td>牛肉米粉</td>
+          <td>9.50</td>
         </tr>
 
         <tr>
           <td></td>
           <td>56.</td>
+          <td></td>
           <td>Shrimp Rice Noodles</td>
           <td>蝦米粉</td>
-          <td></td>
-          <td>9.50</td>
-        </tr>
-
-        <tr>
-          <td></td>
-          <td>57.</td>
-          <td>House Special Rice Noodles</td>
-          <td>本樓米粉</td>
-          <td></td>
           <td>10.50</td>
         </tr>
 
         <tr>
           <td></td>
-          <td>58.</td>
-          <td>Singapore Style Rice Noodles<img src="~/assets/images/spicy.gif" width="13" height="18"></td>
-          <td>星洲米粉</td>
+          <td>57.</td>
           <td></td>
-          <td>9.50</td>
+          <td>House Special Rice Noodles</td>
+          <td>本樓米粉</td>
+          <td>11.50</td>
+        </tr>
+
+        <tr>
+          <td></td>
+          <td>58.</td>
+          <td><img src="~/assets/images/spicy.gif" width="13" height="18"></td>
+          <td>Singapore Style Rice Noodles</td>
+          <td>星洲米粉</td>
+          <td>10.50</td>
         </tr>
 
         <tr>
           <td></td>
           <td>59.</td>
+          <td></td>
           <td>Harmen Rice Noodles</td>
           <td>廈門米粉</td>
-          <td></td>
-          <td>9.50</td>
+          <td>10.50</td>
         </tr>
 
         <tr>
           <td></td>
           <td>60.</td>
+          <td></td>
           <td>Seafood Pan Fried Noodles</td>
           <td>海鮮兩面黃</td>
-          <td></td>
-          <td>15.95</td>
+          <td>16.95</td>
         </tr>
 
         <tr>
           <td></td>
           <td>61.</td>
-          <td>Pan Fried Noodles Any Style (Chicken, Pork, Beef)</td>
-          <td>各式兩面黃</td>
           <td></td>
-          <td>9.50</td>
+          <td>Chicken Pan Fried Noodles</td>
+          <td>雞兩面黃</td>
+          <td>10.50</td>
+        </tr>
+
+        <tr>
+          <td></td>
+          <td>62.</td>
+          <td></td>
+          <td>Pork Pan Fried Noodles</td>
+          <td>肉兩面黃</td>
+          <td>10.50</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>63.</td>
+          <td></td>
+          <td>Beef Pan Fried Noodles</td>
+          <td>牛肉兩面黃</td>
+          <td>10.50</td>
         </tr>
 
         <tr>
           <td></td>
           <td>64.</td>
+          <td></td>
           <td>Shrimp Pan Fried Noodles Any Style</td>
           <td>蝦兩面黃</td>
-          <td></td>
           <td>10.50</td>
         </tr>
 
         <tr>
           <td></td>
           <td>65.</td>
+          <td></td>
           <td>House Special Pan Fried Noodles</td>
           <td>本樓兩面黃</td>
-          <td></td>
-          <td>10.50</td>
+          <td>11.50</td>
         </tr>
 
         <tr>
           <td></td>
           <td>66.</td>
+          <td></td>
           <td>Baby Shrimp Pan Fried Noodles w/ Egg Sauce</td>
           <td>滑蛋蝦仁炒麵</td>
-          <td></td>
-          <td>11.95</td>
-        </tr>
-
-        <tr>
-          <td></td>
-          <td>67.</td>
-          <td>Two Flavors Fried Rice</td>
-          <td>鴛鴦炒飯</td>
-          <td></td>
           <td>12.95</td>
         </tr>
 
         <tr>
           <td></td>
+          <td>67.</td>
+          <td></td>
+          <td>Two Flavor Fried Rice</td>
+          <td>鴛鴦炒飯</td>
+          <td>13.95</td>
+        </tr>
+
+        <tr>
+          <td></td>
           <td>68.</td>
+          <td></td>
           <td>Salted Fish & Chicken Fried Rice</td>
           <td>鹹魚雞粒炒飯</td>
-          <td></td>
-          <td>14.95</td>
+          <td>15.95</td>
         </tr>
 
         <tr>
           <td></td>
           <td>69.</td>
+          <td></td>
           <td>Braised Noodle w/ Mushroom</td>
           <td>乾燒伊麵</td>
-          <td></td>
-          <td>11.95</td>
+          <td>12.95</td>
         </tr>
 
         <tr>
           <td></td>
           <td>70.</td>
+          <td></td>
           <td>Braised Noodle w/ Seafood</td>
           <td>海鮮伊麵</td>
-          <td></td>
-          <td>15.95</td>
+          <td>16.95</td>
         </tr>
       </tbody>
     </table>
@@ -989,16 +1065,16 @@
           <td width="18"><img src="~/assets/images/spicy.gif" width="13" height="18"></td>
           <td width="260">Broccoli in Garlic Sauce</td>
           <td width="120">魚香芥蘭</td>
-          <td>8.75</td>
+          <td>9.75</td>
         </tr>
 
         <tr>
           <td></td>
           <td>72.</td>
           <td><img src="~/assets/images/spicy.gif" width="13" height="18"></td>
-          <td>Bean Curd Szechuan Style (No Meat)</td>
+          <td>Bean Curd Szechuan Style</td>
           <td>麻婆豆腐</td>
-          <td>8.75</td>
+          <td>9.75</td>
         </tr>
 
         <tr>
@@ -1007,7 +1083,7 @@
           <td></td>
           <td>Fried Bean Curd Home Style</td>
           <td>家常豆腐</td>
-          <td>8.75</td>
+          <td>9.75</td>
         </tr>
 
         <tr>
@@ -1016,16 +1092,16 @@
           <td><img src="~/assets/images/spicy.gif" width="13" height="18"></td>
           <td>Eggplant in Garlic Sauce</td>
           <td>魚香茄子</td>
-          <td>8.75</td>
+          <td>9.75</td>
         </tr>
 
         <tr>
           <td></td>
           <td>75.</td>
           <td><img src="~/assets/images/spicy.gif" width="13" height="18"></td>
-          <td>String Beans w. Garlic Sauce</td>
+          <td>String Bean w/ Garlic Sauce</td>
           <td>魚香四季豆</td>
-          <td>8.75</td>
+          <td>9.75</td>
         </tr>
 
         <tr>
@@ -1034,7 +1110,7 @@
           <td></td>
           <td>Sauteed Garden Mixed Vegetables</td>
           <td>素什錦</td>
-          <td>8.75</td>
+          <td>9.75</td>
         </tr>
 
         <tr>
@@ -1043,7 +1119,7 @@
           <td></td>
           <td>Sauteed Spinach w/ Fresh Garlic</td>
           <td>蒜蓉菠菜</td>
-          <td>8.75</td>
+          <td>10.75</td>
         </tr>
 
         <tr>
@@ -1052,7 +1128,7 @@
           <td></td>
           <td>Buddhist Delight</td>
           <td>羅漢齋</td>
-          <td>9.95</td>
+          <td>10.95</td>
         </tr>
 
         <tr>
@@ -1061,7 +1137,7 @@
           <td></td>
           <td>Black Mushroom w/ Two Chinese Vegetable</td>
           <td>北菇扒雙蔬</td>
-          <td>12.95</td>
+          <td>13.95</td>
         </tr>
 
         <tr>
@@ -1070,7 +1146,7 @@
           <td></td>
           <td>Mixed Chinese Vegetables</td>
           <td>竹笙扒時菜</td>
-          <td>14.95</td>
+          <td>15.95</td>
         </tr>
 
         <tr>
@@ -1079,7 +1155,7 @@
           <td></td>
           <td>Crispy Stuffed Bean Curd</td>
           <td>脆皮豆腐</td>
-          <td>9.75</td>
+          <td>10.95</td>
         </tr>
 
         <tr>
@@ -1088,7 +1164,7 @@
           <td><img src="~/assets/images/spicy.gif" width="13" height="18"></td>
           <td>Three Green in Garlic Sauce</td>
           <td>魚香三素</td>
-          <td>109.95</td>
+          <td>11.95</td>
         </tr>
       </tbody>
     </table>
@@ -1103,9 +1179,9 @@
           <td></td>
           <td width="25">83.</td>
           <td width="18"></td>
-          <td width="260">Chicken w. Broccoli</td>
+          <td width="260">Chicken w/ Broccoli</td>
           <td width="120">芥蘭雞</td>
-          <td>9.95</td>
+          <td>10.95</td>
         </tr>
 
         <tr>
@@ -1114,16 +1190,16 @@
           <td></td>
           <td>Sweet & Sour Chicken</td>
           <td>甜酸雞</td>
-          <td>9.95</td>
+          <td>11.95</td>
         </tr>
 
         <tr>
           <td></td>
           <td>85.</td>
           <td></td>
-          <td>Chicken w. Cashew Nuts</td>
+          <td>Chicken w/ Cashew Nuts</td>
           <td>腰果雞</td>
-          <td>9.95</td>
+          <td>11.95</td>
         </tr>
 
         <tr>
@@ -1132,52 +1208,52 @@
           <td><img src="~/assets/images/spicy.gif" width="13" height="18"></td>
           <td>Chicken in Garlic Sauce</td>
           <td>魚香雞</td>
-          <td>9.95</td>
+          <td>10.95</td>
         </tr>
 
         <tr>
           <td></td>
           <td>87.</td>
           <td><img src="~/assets/images/spicy.gif" width="13" height="18"></td>
-          <td>Kung Pao Chicken w. Peanuts</td>
+          <td>Kung Pao Chicken w/ Peanuts</td>
           <td>宮保雞</td>
-          <td>9.95</td>
+          <td>10.95</td>
         </tr>
 
         <tr>
           <td></td>
           <td>88.</td>
           <td><img src="~/assets/images/spicy.gif" width="13" height="18"></td>
-          <td>Chicken & Eggplant w. Garlic Sauce</td>
+          <td>Chicken & Eggplant w/ Garlic Sauce</td>
           <td>魚香茄子雞</td>
-          <td>9.95</td>
+          <td>10.95</td>
         </tr>
 
         <tr>
           <td></td>
           <td>89.</td>
           <td></td>
-          <td>Chicken w. Fresh String Bean</td>
+          <td>Chicken w/ Fresh String Bean</td>
           <td>四季豆雞</td>
-          <td>9.95</td>
+          <td>10.95</td>
         </tr>
 
         <tr>
           <td></td>
           <td>90.</td>
           <td></td>
-          <td>Shiitake Mushrooms w. Chicken</td>
+          <td>Shiitake Mushrooms w/ Chicken</td>
           <td>鮮菇雞</td>
-          <td>11.95</td>
+          <td>12.95</td>
         </tr>
 
         <tr>
           <td></td>
           <td>91.</td>
           <td></td>
-          <td>Honey Glazed Chicken w. Walnuts</td>
+          <td>Honey Glazed Chicken w/ Walnuts</td>
           <td>核桃雞</td>
-          <td>12.95</td>
+          <td>13.95</td>
         </tr>
 
         <tr>
@@ -1186,7 +1262,7 @@
           <td><img src="~/assets/images/spicy.gif" width="13" height="18"></td>
           <td>Orange Flavored Chicken</td>
           <td>陳皮雞</td>
-          <td>13.95</td>
+          <td>14.95</td>
         </tr>
 
         <tr>
@@ -1195,7 +1271,7 @@
           <td></td>
           <td>Sesame Chicken</td>
           <td>芝麻雞</td>
-          <td>13.95</td>
+          <td>14.95</td>
         </tr>
 
         <tr>
@@ -1204,7 +1280,7 @@
           <td><img src="~/assets/images/spicy.gif" width="13" height="18"></td>
           <td>General Tso's Chicken</td>
           <td>左宗雞</td>
-          <td>13.95</td>
+          <td>14.95</td>
         </tr>
 
         <tr>
@@ -1213,7 +1289,7 @@
           <td></td>
           <td>Moo Shu Chicken (4 Pancakes)</td>
           <td>木須雞</td>
-          <td>10.95</td>
+          <td>11.95</td>
         </tr>
 
         <tr>
@@ -1222,16 +1298,16 @@
           <td><img src="~/assets/images/spicy.gif" width="13" height="18"></td>
           <td>Curry Chicken</td>
           <td>咖哩雞</td>
-          <td>10.95</td>
+          <td>11.95</td>
         </tr>
 
         <tr>
           <td></td>
           <td>97.</td>
           <td></td>
-          <td>Roast Duck</td>
+          <td>Roast Duck (Half)</td>
           <td>明燒火鴨</td>
-          <td>13.95</td>
+          <td>14.95</td>
         </tr>
 
         <tr>
@@ -1240,7 +1316,7 @@
           <td></td>
           <td>Crispy Boneless Duck w/ Vegetable</td>
           <td>油淋鴨</td>
-          <td>12.95</td>
+          <td>13.95</td>
         </tr>
 
         <tr>
@@ -1249,16 +1325,16 @@
           <td></td>
           <td>Crispy Chicken</td>
           <td>炸子雞</td>
-          <td>(whole) 20.95 (half) 12.95 </td>
+          <td>(half) 13.95 (whole) 21.95</td>
         </tr>
 
         <tr>
           <td></td>
           <td>100.</td>
           <td></td>
-          <td>Chicken in Scallions Sauce</td>
+          <td>Chicken in Scallion Sauce</td>
           <td>蔥油雞</td>
-          <td>(whole) 20.95 (half) 12.95</td>
+          <td>(half) 13.95 (whole) 21.95</td>
         </tr>
 
         <tr>
@@ -1267,7 +1343,7 @@
           <td></td>
           <td>Chicken w/ Green Mustard</td>
           <td>菜膽湯雞</td>
-          <td>(whole) 23.95 (half) 13.95</td>
+          <td>(half) 14.95 (whole) 24.95</td>
         </tr>
 
         <tr>
@@ -1276,7 +1352,7 @@
           <td></td>
           <td>Roast Duck w/ Buddhist Delight</td>
           <td>羅漢齋扒鴨</td>
-          <td>13.95</td>
+          <td>14.95</td>
         </tr>
       </tbody>
     </table>
@@ -1291,7 +1367,7 @@
           <td></td>
           <td width="25">103.</td>
           <td width="18"></td>
-          <td width="260">Moo Shu Pork</td>
+          <td width="260">Moo Shu Pork (4 Pancakes)</td>
           <td width="120">木須肉</td>
           <td>10.95</td>
         </tr>
@@ -1300,16 +1376,16 @@
           <td></td>
           <td>104.</td>
           <td></td>
-          <td>Pork w. Dried Bean Curd</td>
+          <td>Pork w/ Diced Bean Curd</td>
           <td>香乾肉絲</td>
-          <td>10,95</td>
+          <td>10.95</td>
         </tr>
 
         <tr>
           <td></td>
           <td>105.</td>
           <td></td>
-          <td>Roast Pork w. Mixed Vegetables</td>
+          <td>Roast Pork w/ Mixed Vegetables</td>
           <td>什菜叉燒</td>
           <td>10.95</td>
         </tr>
@@ -1318,7 +1394,7 @@
           <td></td>
           <td>106.</td>
           <td></td>
-          <td>Roast Pork w. Fresh Mushrooms</td>
+          <td>Roast Pork w/ Fresh Mushrooms</td>
           <td>鮮菇叉燒</td>
           <td>10.95</td>
         </tr>
@@ -1327,7 +1403,7 @@
           <td></td>
           <td>107.</td>
           <td><img src="~/assets/images/spicy.gif" width="13" height="18"></td>
-          <td>Pork w. Garlic Sauce</td>
+          <td>Pork w/ Garlic Sauce</td>
           <td>魚香肉絲</td>
           <td>10.95</td>
         </tr>
@@ -1462,7 +1538,7 @@
           <td></td>
           <td>122.</td>
           <td></td>
-          <td>Sliced Pork w/ Bitter Zucchini</td>
+          <td>Sliced Pork w/ Bitten Zucchini</td>
           <td>升肉瓜</td>
           <td>10.95</td>
         </tr>
@@ -1479,9 +1555,9 @@
           <td></td>
           <td width="25">123.</td>
           <td width="18"></td>
-          <td width="260">Beef with Broccoli</td>
+          <td width="260">Beef w/ Broccoli</td>
           <td width="120">芥蘭牛</td>
-          <td>11.95</td>
+          <td>12.95</td>
         </tr>
 
         <tr>
@@ -1490,34 +1566,34 @@
           <td><img src="~/assets/images/spicy.gif" width="13" height="18"></td>
           <td>Shredded Beef Country Style</td>
           <td>乾燒牛</td>
-          <td>11.95</td>
+          <td>12.95</td>
         </tr>
 
         <tr>
           <td></td>
           <td>125.</td>
           <td></td>
-          <td>Beef with Mixed Vegetables</td>
+          <td>Beef w/ Mixed Vegetables</td>
           <td>什菜牛</td>
-          <td>11.95</td>
+          <td>12.95</td>
         </tr>
 
         <tr>
           <td></td>
           <td>126.</td>
           <td></td>
-          <td>Pepper Steak with Onion</td>
+          <td>Pepper Steak w/ Onion</td>
           <td>青椒牛</td>
-          <td>11.95</td>
+          <td>12.95</td>
         </tr>
 
         <tr>
           <td></td>
           <td>127.</td>
           <td><img src="~/assets/images/spicy.gif" width="13" height="18"></td>
-          <td>Shredded Beef w. Jalapeno Hot Pepper</td>
+          <td>Shredded Beef w/ Jalapeno Hot Pepper</td>
           <td>小辣椒牛肉絲</td>
-          <td>11.95</td>
+          <td>12.95</td>
         </tr>
 
         <tr>
@@ -1526,7 +1602,7 @@
           <td><img src="~/assets/images/spicy.gif" width="13" height="18"></td>
           <td>Sha Cha Beef w/ Chinese BBQ Sauce</td>
           <td>沙茶牛肉</td>
-          <td>11.95</td>
+          <td>12.95</td>
         </tr>
 
         <tr>
@@ -1535,7 +1611,7 @@
           <td><img src="~/assets/images/spicy.gif" width="13" height="18"></td>
           <td>Orange Beef</td>
           <td>陳皮牛</td>
-          <td>14.95</td>
+          <td>15.95</td>
         </tr>
 
         <tr>
@@ -1544,7 +1620,7 @@
           <td></td>
           <td>Mongolian Beef</td>
           <td>蒙古牛</td>
-          <td>11.95</td>
+          <td>12.95</td>
         </tr>
 
         <tr>
@@ -1553,7 +1629,7 @@
           <td></td>
           <td>Shredded Beef w/ Garlic Sauce</td>
           <td>魚香牛</td>
-          <td>11.95</td>
+          <td>12.95</td>
         </tr>
 
         <tr>
@@ -1562,7 +1638,7 @@
           <td></td>
           <td>Sauteed Steak Kew w/ Vegetable</td>
           <td>生炒的士球</td>
-          <td>16.95</td>
+          <td>17.95</td>
         </tr>
 
         <tr>
@@ -1571,7 +1647,7 @@
           <td></td>
           <td>Beef Tripe w/ Pickled Mustard</td>
           <td>酸菜牛百葉</td>
-          <td>11.95</td>
+          <td>12.95</td>
         </tr>
 
         <tr>
@@ -1580,7 +1656,7 @@
           <td></td>
           <td>Sliced Beef w/ Spinach</td>
           <td>滑牛菠菜</td>
-          <td>11.95</td>
+          <td>13.95</td>
         </tr>
       </tbody>
     </table>
@@ -1597,7 +1673,7 @@
           <td width="18"></td>
           <td width="260">Baby Shrimp w/ Green Peas</td>
           <td width="120">炒蝦仁</td>
-          <td>13.95</td>
+          <td>14.95</td>
         </tr>
 
         <tr>
@@ -1606,25 +1682,25 @@
           <td width="18"></td>
           <td width="260">Moo Shu Shrimp</td>
           <td width="120">木須蝦仁</td>
-          <td>13.95</td>
+          <td>14.95</td>
         </tr>
 
         <tr>
           <td></td>
           <td width="25">137.</td>
           <td width="18"></td>
-          <td width="260">Shrimp with Broccoli</td>
+          <td width="260">Shrimp w/ Broccoli</td>
           <td width="120">芥蘭蝦</td>
-          <td>15.95</td>
+          <td>16.95</td>
         </tr>
 
         <tr>
           <td></td>
           <td>138.</td>
           <td><img src="~/assets/images/spicy.gif" width="13" height="18"></td>
-          <td>Shrimp in Garlic Sauce</td>
+          <td>Shrimp w/ Garlic Sauce</td>
           <td>魚香蝦</td>
-          <td>15.95</td>
+          <td>16.95</td>
         </tr>
 
         <tr>
@@ -1633,7 +1709,7 @@
           <td><img src="~/assets/images/spicy.gif" width="13" height="18"></td>
           <td>Kung Pao Shrimp</td>
           <td>宮保蝦</td>
-          <td>15.95</td>
+          <td>16.95</td>
         </tr>
 
         <tr>
@@ -1642,7 +1718,7 @@
           <td></td>
           <td>Shrimp in Lobster Sauce</td>
           <td>龍蝦糊</td>
-          <td>15.95</td>
+          <td>16.95</td>
         </tr>
 
         <tr>
@@ -1651,7 +1727,7 @@
           <td><img src="~/assets/images/spicy.gif" width="13" height="18"></td>
           <td>Rainbow Shrimp</td>
           <td>彩虹蝦</td>
-          <td>15.95</td>
+          <td>16.95</td>
         </tr>
 
         <tr>
@@ -1660,7 +1736,7 @@
           <td></td>
           <td>Sweet & Sour Shrimp</td>
           <td>甜酸蝦</td>
-          <td>15.95</td>
+          <td>16.95</td>
         </tr>
 
         <tr>
@@ -1669,7 +1745,7 @@
           <td></td>
           <td>Shrimp w/ Cashew Nuts</td>
           <td>腰果蝦</td>
-          <td>15.95</td>
+          <td>16.95</td>
         </tr>
 
         <tr>
@@ -1678,7 +1754,7 @@
           <td></td>
           <td>Lake Tung Ting Shrimp</td>
           <td>洞庭蝦</td>
-          <td>16.95</td>
+          <td>17.95</td>
         </tr>
 
         <tr>
@@ -1687,7 +1763,7 @@
           <td><img src="~/assets/images/spicy.gif" width="13" height="18"></td>
           <td>General Tso's Scallop</td>
           <td>左宗乾貝</td>
-          <td>15.95</td>
+          <td>16.95</td>
         </tr>
 
         <tr>
@@ -1696,7 +1772,7 @@
           <td><img src="~/assets/images/spicy.gif" width="13" height="18"></td>
           <td>Scallop w/ Black Pepper Sauce</td>
           <td>黑椒鮮貝</td>
-          <td>15.95</td>
+          <td>16.95</td>
         </tr>
 
         <tr>
@@ -1705,7 +1781,7 @@
           <td><img src="~/assets/images/spicy.gif" width="13" height="18"></td>
           <td>Clam w/ Black Bean Sauce</td>
           <td>豉汁炒蜆</td>
-          <td>15.95</td>
+          <td>16.95</td>
         </tr>
 
         <tr>
@@ -1714,7 +1790,7 @@
           <td></td>
           <td>Sauteed Conch & Scallop w/ Mixed Veg</td>
           <td>帶子螺片</td>
-          <td>30.95</td>
+          <td>31.95</td>
         </tr>
 
         <tr>
@@ -1723,7 +1799,7 @@
           <td></td>
           <td>Conch & Feet Fried w/ Mixed Veg</td>
           <td>鮮掌螺片</td>
-          <td>30.95</td>
+          <td>31.95</td>
         </tr>
 
         <tr>
@@ -1732,7 +1808,7 @@
           <td></td>
           <td>Sauteed Conch w/ Mixed Veg</td>
           <td>油泡螺片</td>
-          <td>25.95</td>
+          <td>26.95</td>
         </tr>
 
         <tr>
@@ -1741,7 +1817,7 @@
           <td></td>
           <td>Sliced Conch w/ Veg & Crispy Bean Curd</td>
           <td>金磚拼螺片</td>
-          <td>30.95</td>
+          <td>31.95</td>
         </tr>
 
         <tr>
@@ -1750,7 +1826,7 @@
           <td><img src="~/assets/images/spicy.gif" width="13" height="18"></td>
           <td>Squid in Light Baked Salt & Peppercorn</td>
           <td>椒鹽鮮魷</td>
-          <td>30.95</td>
+          <td>14.95</td>
         </tr>
 
         <tr>
@@ -1759,7 +1835,7 @@
           <td></td>
           <td>Squid w/ Pickled Mustard</td>
           <td>酸菜鮮魷</td>
-          <td>13.95</td>
+          <td>14.95</td>
         </tr>
 
         <tr>
@@ -1768,7 +1844,7 @@
           <td></td>
           <td>Squid w/ Green Pepper in Black Bean Sauce</td>
           <td>豉椒鮮魷</td>
-          <td>13.95</td>
+          <td>14.95</td>
         </tr>
 
         <tr>
@@ -1777,7 +1853,7 @@
           <td></td>
           <td>Pan Fried Flounder</td>
           <td>煎龍利</td>
-          <td>20.95</td>
+          <td>21.95</td>
         </tr>
 
         <tr>
@@ -1786,7 +1862,7 @@
           <td></td>
           <td>Steamed Flounder in Ginger & Scallion Sauce</td>
           <td>蒸龍利</td>
-          <td>20.95</td>
+          <td>21.95</td>
         </tr>
 
         <tr>
@@ -1795,7 +1871,7 @@
           <td></td>
           <td>Steamed Sea Bass in Ginger & Scallion Sauce</td>
           <td>蒸司啤</td>
-          <td>23.95</td>
+          <td>24.95</td>
         </tr>
       </tbody>
     </table>
@@ -1812,49 +1888,55 @@
         <tr>
           <td></td>
           <td width="25">158.</td>
+          <td width="18"></td>
           <td width="400">Steamed Garden Mixed Vegetables</td>
           <td width="120">蒸素什錦</td>
-          <td>9.95</td>
-        </tr>
-
-        <tr>
-          <td></td>
-          <td>159.</td>
-          <td>Steamed Chicken w/ Assorted Vegetables</td>
-          <td>蒸七彩雞</td>
           <td>10.95</td>
         </tr>
 
         <tr>
           <td></td>
+          <td>159.</td>
+          <td></td>
+          <td>Steamed Chicken w/ Assorted Vegetables</td>
+          <td>蒸七彩雞</td>
+          <td>11.95</td>
+        </tr>
+
+        <tr>
+          <td></td>
           <td>160.</td>
+          <td></td>
           <td>Steamed Beef w/ Assorted Vegetables</td>
           <td>蒸七彩牛</td>
-          <td>12.95</td>
+          <td>13.95</td>
         </tr>
 
         <tr>
           <td></td>
           <td>161.</td>
+          <td></td>
           <td>Steamed Shrimp w/ Assorted Vegetables</td>
           <td>蒸七彩蝦</td>
-          <td>16.95</td>
+          <td>17.95</td>
         </tr>
 
         <tr>
           <td></td>
           <td>162.</td>
+          <td></td>
           <td>Steamed Scallop w/ Assorted Vegetables</td>
           <td>蒸七彩干貝</td>
-          <td>16.95</td>
+          <td>17.95</td>
         </tr>
 
         <tr>
           <td></td>
           <td>163.</td>
+          <td></td>
           <td>Steamed Chicken, Shrimp & Scallop w/ Assorted Vegetables</td>
           <td>蒸七彩三味</td>
-          <td>18.95</td>
+          <td>19.95</td>
         </tr>
       </tbody>
     </table>
