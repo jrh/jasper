@@ -34,6 +34,7 @@ module.exports = {
   ** Plugins to load before mounting the App
   */
   plugins: [
+    { src: '~plugins/ga.js', ssr: false }
   ],
 
   /*
@@ -64,7 +65,7 @@ module.exports = {
         'b-card-img': 'img-src',
         'b-carousel-slide': 'img-src',
         'b-embed': 'src'
-      }      
+      }
     }
   }
 }
